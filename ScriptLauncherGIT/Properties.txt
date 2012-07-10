@@ -1,0 +1,68 @@
+Local
+TempPath           = C:/TEMP/
+UserName           = sruiz
+CompareCommand     = "C:/Program Files (x86)/Araxis/Araxis Merge v6.5/Compare.exe"
+ListOutputFilename = Listado.txt
+Packages           = 127,128,129
+CurrentPackage     = 129
+PathPackages       = C:/AribaSDK/Projects/Mantenimiento/
+ScriptsLocation    = C:/AribaSDK/Scripts Sincronizacion/Scripts/
+PathPlantilla      = C:/AribaSDK/Scripts Sincronizacion/Plantilla/
+PathPlantillaRider = C:/AribaSDK/Scripts Sincronizacion/Plantilla Rider/
+UpstreamPath       = C:/AribaSDK/Projects/Servidor/Upstream/
+BuyerPath          = C:/AribaSDK/Projects/Servidor/Buyer/
+Debug              = true
+SourceReader       = common.EclipseProjectFileReader
+DefautlEnv         = Mant
+ProxyHost          =  
+ProxyPort          =  
+Redmine
+RedmineURL         = http://cscappast021:8080/redmine
+RedmineQueryAPI    = 97b044779f5e2d373ccbdd3b66f9ec6d4778ea89
+ProjectId          = mant124
+CurrentVersion     = MAN129
+QueryId            = 50
+CacheFilePath      = ./RedmineCache.xml
+SVN
+RepositoryURL      = http://cscappast021:8090/svn/Ariba/branches/mant
+UserName           = jvu
+Password           = scriptssincrojvu
+CacheFilePath      = ./SVNCache.xml
+Mant
+Nombre             = Mantenimiento TCE
+Host               = jcapp04
+User               = mtasm01
+Pass               = MntSte09
+Port               = 22
+remotePathUpstream = /soft/MTASM01/mtupstream/UPSTREAM/
+remotePathBuyer    = /soft/MTASM01/ariba/app/buyer/
+upstreamcommand    = cd mtupstream/UPSTREAM/Server/bin; ./checkmeta
+buyercommand       = ariba/app/buyer/Server/bin/checkmeta
+compileUpstreamCommand     = cd mtupstream/UPSTREAM/Server; ./bin/compile -source ./src -classpath ./src.core -Xlint:deprecation -Xlint:unchecked
+compileUpstreamCoreCommand = cd mtupstream/UPSTREAM/Server; ./bin/compile -source ./src.core -output ./classes -classpath ./src -Xlint:deprecation -Xlint:unchecked
+initdbUpstreamCommand      = cd mtupstream/UPSTREAM/Server; ./bin/initdb -reshapedb
+initdbBuyerCommand         = cd ariba/app/buyer/Server; ./bin/initdb -reshapedb
+compileBuyerCustomCommand  = cd ariba/app/buyer/Server/classes/extensions;../../bin/compile
+Desa05
+Nombre             = Desa 05
+Host               = jcapp05
+User               = dsasm05
+Pass               = equipo05
+Port               = 22
+remotePathUpstream = /soft/DSASM05/UPSTREAM
+remotePathBuyer    = /soft/DSASM05/BUYER
+upstreamcommand    = cd UPSTREAM/Server/bin; ./checkmeta
+buyercommand       = /soft/DSASM05/BUYER/Server/bin/checkmeta
+compileUpstreamCommand     = cd /soft/DSASM05/UPSTREAM/Server; ./bin/compile -source ./src -classpath ./src.core -Xlint:deprecation -Xlint:unchecked
+compileUpstreamCoreCommand = cd /soft/DSASM05/UPSTREAM/Server; ./bin/compile -source ./src.core -output ./classes -classpath ./src -Xlint:deprecation -Xlint:unchecked
+initdbUpstreamCommand      = cd /soft/DSASM05/UPSTREAM/Server; ./bin/initdb -reshapedb
+initdbBuyerCommand         = cd /soft/DSASM05/BUYER/Server; ./bin/initdb -reshapedb
+compileBuyerCustomCommand  = cd /soft/DSASM05/BUYER/Server/classes/extensions;../../bin/compile
+Int
+Nombre             = Integración TCE
+Host               = adkra45
+User               = intjup
+Pass               = EvedM09
+Port               = 22
+remotePathUpstream = /soft/intupstream/UPSTREAM
+remotePathBuyer    = /soft/intupstream/ariba/app/buyer

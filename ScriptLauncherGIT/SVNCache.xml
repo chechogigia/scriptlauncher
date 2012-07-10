@@ -1,0 +1,2304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SVNCache lastrevision="1488">
+<revision name="826" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_PeticionCompraExt.aml" type="M"/>
+</revision>
+<revision name="827" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_SplitAccountingExt.aml" type="M"/>
+</revision>
+<revision name="828" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_CreateContact.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_DeleteSupplierContacts.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/InsproUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/cds/task/Z_AddSupplierContactsTask.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/Z_User.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/ScheduledTasks.table" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_DeleteContact.java" type="A"/>
+</revision>
+<revision name="829" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/condition/IsTrueProperty.java" type="M"/>
+</revision>
+<revision name="831" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/condition/IsTrueProperty.java" type="M"/>
+</revision>
+<revision name="832" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_DeleteSupplierContacts.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="833" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_DeleteSupplierContacts.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="834" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_DeleteSupplierContacts.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="835" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/actions/Z_SetSupervisorCeCo.java" type="A"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_SplitAccountingExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/condition/IsTrueProperty.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/eform/peticioncompra/nametable/Z_SupervisorCeCoNameTable.java" type="M"/>
+</revision>
+<revision name="836" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/actions/Z_SetSupervisorCeCo.java" type="M"/>
+</revision>
+<revision name="837" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/actions/Z_SetSupervisorCeCo.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/eform/peticioncompra/nametable/Z_SupervisorCeCoNameTable.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/extensions/pgcs/Z_SplitAccountingExt.aml" type="M"/>
+</revision>
+<revision name="838" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="839" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_DeleteSupplierContacts.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="840" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/eform/peticioncompra/nametable/Z_SupervisorCeCoNameTable.java" type="M"/>
+</revision>
+<revision name="841" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_DeleteSupplierContacts.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="842" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/actions/Z_SetSupervisorCeCo.java" type="M"/>
+</revision>
+<revision name="843" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_DeleteSupplierContacts.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="844" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/actions/Z_SetSupervisorCeCo.java" type="M"/>
+</revision>
+<revision name="845" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="846" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="847" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/Z_PCGrupos.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_PeticionCompraExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/Z_LineaPCGrupos.aml" type="M"/>
+</revision>
+<revision name="848" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_PeticionCompraExt.aml" type="M"/>
+</revision>
+<revision name="849" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="850" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="851" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_PeticionCompraExt.aml" type="M"/>
+</revision>
+<revision name="852" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="853" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="854" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="855" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="856" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="M"/>
+</revision>
+<revision name="857" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/InsproUtil.java" type="M"/>
+</revision>
+<revision name="858" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/RulesProperties.csv" type="M"/>
+</revision>
+<revision name="859" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/InsproUtil.java" type="M"/>
+</revision>
+<revision name="860" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_DeleteSupplierContacts.java" type="M"/>
+</revision>
+<revision name="861" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/actions/Z_SetSupervisorCeCo.java" type="M"/>
+</revision>
+<revision name="862" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/actions/Z_SetSupervisorCeCo.java" type="M"/>
+</revision>
+<revision name="863" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/actions/Z_SetSupervisorCeCo.java" type="M"/>
+</revision>
+<revision name="864" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_CreateContact.java" type="M"/>
+</revision>
+<revision name="865" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/ApprovalLimits.csv" type="M"/>
+</revision>
+<revision name="866" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_CreateContact.java" type="M"/>
+</revision>
+<revision name="867" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/aml.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/aml.Z_LineaPC.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_LineaPCExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/aml.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/partitions/None/data/telefonica/OrganizationProperties.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/aml.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/aml.Z_LineaPC.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/extensions/CostCenterExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/CostCenterSupervisorMap.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/aml.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/extensions/pgcs/Z_SplitAccountingExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/messages/MessageDefinition.table" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/Z_SplitAccountingGroups.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/aml.Z_LineaPC.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/PesosReglas.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/Z_PCGrupos.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_SplitAccountingExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_PeticionCompraExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/aml.Z_LineaPC.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/extensions/groups/Z_SplitAccountingGroups.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/Z_LineaPCGrupos.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/file/MessageConfiguration.table" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/Z_OrganizationProfile.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/condition/IsTrueProperty.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/aml.Z_LineaPC.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/aml.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/eform/peticioncompra/nametable/Z_SupervisorCeCoNameTable.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/extensions/pgcs/Z_LineaPCExt.aml" type="M"/>
+</revision>
+<revision name="870" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_CreateContact.java" type="M"/>
+</revision>
+<revision name="871" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/RulesProperties.csv" type="M"/>
+</revision>
+<revision name="876" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/BaseObject.js" type="M"/>
+</revision>
+<revision name="878" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/RulesProperties.csv" type="M"/>
+</revision>
+<revision name="881" taskid="315">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/cXML/template/pgcs/TLF_PurchaseRequestEncode.awl" type="M"/>
+</revision>
+<revision name="882" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_CreateContact.java" type="M"/>
+</revision>
+<revision name="884" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/SortRules.csv" type="M"/>
+</revision>
+<revision name="886" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_CreateContact.java" type="D"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/Z_User.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_DeleteContact.java" type="D"/>
+</revision>
+<revision name="887" taskid="315">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/cxml/TLF_CXMLPurchaseRequestLineNode.java" type="M"/>
+</revision>
+<revision name="888" taskid="315">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/cXML/template/pgcs/TLF_PurchaseRequestEncode.awl" type="M"/>
+</revision>
+<revision name="889" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContactsTask.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_DeleteSupplierContacts.java" type="D"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContacts.java" type="D"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/cds/task/Z_DeleteSupplierContactsTask.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_DeleteSupplierContactsTask.java" type="A"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/partitions/None/CommonScheduledTasks.table" type="M"/>
+</revision>
+<revision name="890" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/ScheduledTasks.table" type="M"/>
+</revision>
+<revision name="891" taskid="315">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/cxml/TLF_CXMLPurchaseRequestLineNode.java" type="M"/>
+</revision>
+<revision name="892" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_PeticionCompraExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/condition/IsVisibleWFChooser.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/workflow/WFUtil.java" type="M"/>
+</revision>
+<revision name="894" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_PeticionCompraExt.aml" type="M"/>
+</revision>
+<revision name="895" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/condition/IsVisibleWFChooser.java" type="M"/>
+</revision>
+<revision name="896" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_PeticionCompraExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/telefonica.rules.reasons.csv" type="M"/>
+</revision>
+<revision name="897" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/condition/IsVisibleWFChooser.java" type="M"/>
+</revision>
+<revision name="898" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/workflow/WFUtil.java" type="M"/>
+</revision>
+<revision name="899" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/CopyWFChooser.java" type="M"/>
+</revision>
+<revision name="900" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/Parameters.table" type="M"/>
+</revision>
+<revision name="901" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_CXMLAccountingYearLine.java" type="M"/>
+</revision>
+<revision name="902" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="A"/>
+</revision>
+<revision name="903" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+</revision>
+<revision name="904" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="905" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="A"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/Parameters.table" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/Log.Hook.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/workflow/WFUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/telefonica.rules.reasons.csv" type="M"/>
+</revision>
+<revision name="906" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="907" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/Parameters.table" type="M"/>
+</revision>
+<revision name="908" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="M"/>
+</revision>
+<revision name="909" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="910" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="M"/>
+</revision>
+<revision name="911" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="912" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_CXMLAccountingYearLine.java" type="M"/>
+</revision>
+<revision name="913" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_CXMLAccountingYearLine.java" type="M"/>
+</revision>
+<revision name="914" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/eform/peticioncompra/action/Z_AccountingAwardAdjustment.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_CXMLAccountingYearLine.java" type="M"/>
+</revision>
+<revision name="915" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="916" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/PesosReglas.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/SortRules.csv" type="M"/>
+</revision>
+<revision name="917" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="M"/>
+</revision>
+<revision name="918" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="M"/>
+</revision>
+<revision name="919" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/workflow/WFUtil.java" type="M"/>
+</revision>
+<revision name="920" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="M"/>
+</revision>
+<revision name="922" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="923" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+</revision>
+<revision name="924" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="925" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+</revision>
+<revision name="926" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="927" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="929" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="930" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="931" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="932" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+</revision>
+<revision name="933" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+</revision>
+<revision name="934" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_LineaPCExt.aml" type="M"/>
+</revision>
+<revision name="937" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/sapvar1/partitions/saplatam/data/rules/PesosReglas.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/sapvar1/partitions/sappart5/data/rules/PesosReglas.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/sapvar1/partitions/sappart4/data/rules/PesosReglas.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/sapvar1/partitions/sappart3/data/rules/PesosReglas.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/PesosReglas.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/tme/data/rules/PesosReglas.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/sapvar1/partitions/saptde/data/rules/PesosReglas.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/sapvar1/partitions/sapeuropa/data/rules/PesosReglas.csv" type="M"/>
+</revision>
+<revision name="942" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="943" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="944" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/RulesProperties.csv" type="M"/>
+</revision>
+<revision name="945" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="946" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="947" taskid="322">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/com/csc/tce/sfsc/dao/impl/BaseDAO.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/com/csc/tce/sfsc/dao/impl/LogUtil.java" type="M"/>
+</revision>
+<revision name="949" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/actions/Z_SetSupervisorCeCo.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/Log.Hook.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/eform/peticioncompra/nametable/Z_SupervisorCeCoNameTable.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/Z_CommentsExt.aml" type="M"/>
+</revision>
+<revision name="950" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="951" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/UpdateFormalizationPersistentObject.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_AwardSummaryDForm.aml" type="M"/>
+</revision>
+<revision name="952" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="953" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="M"/>
+</revision>
+<revision name="954" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="955" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_CXMLAccountingYearLine.java" type="M"/>
+</revision>
+<revision name="956" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_AwardSummaryDForm.aml" type="M"/>
+</revision>
+<revision name="957" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="958" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="959" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="960" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="961" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="962" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="M"/>
+</revision>
+<revision name="963" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/CheckInformesWFForPC.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/Parameters.core.table.merge" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/partitions/None/data/telefonica/OrganizationProperties.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/rules/Z_PeticionCompra.rul" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/rules/Z_PeticionCompra ATENTO.rul" type="A"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/CostCenterSupervisorMap.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+</revision>
+<revision name="964" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/RulesProperties.csv" type="M"/>
+</revision>
+<revision name="965" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.Z_AwardSummaryDForm.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_AwardSummaryDForm.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.Z_AwardSummaryDForm.csv" type="M"/>
+</revision>
+<revision name="968" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="970" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="971" taskid="322">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/com/csc/tce/sfsc/dao/impl/LogUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/com/csc/tce/sfsc/dao/impl/BaseDAO.java" type="M"/>
+</revision>
+<revision name="972" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_AwardSummaryDForm.aml" type="M"/>
+</revision>
+<revision name="973" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/telefonica/OrganizationProperties.csv" type="M"/>
+</revision>
+<revision name="974" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/telefonica/OrganizationProperties.csv" type="M"/>
+</revision>
+<revision name="975" taskid="326">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/com/csc/tce/sfsc/vo/p40/P40T4VO.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/com/csc/tce/sfsc/dao/config/table/P40_T4.properties" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/com/csc/tce/sfsc/manager/impl/DataMap.config" type="M"/>
+</revision>
+<revision name="976" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="977" taskid="328">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_PurchaseProcessUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/Z_ProcesoCompra.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_UpdateAreasSolicitantesVector.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+</revision>
+<revision name="978" taskid="328">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+</revision>
+<revision name="979" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_PurchaseRequestDformUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_PeticionCompraExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/UpdateFormalizationPersistentObject.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/cXML/template/pgcs/TLF_PurchaseRequestEncode.awl" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.Z_PurchaseRequestForm.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/aml.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_CXMLPurchaseRequestNode.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/aml.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.Z_PurchaseRequestForm.csv" type="M"/>
+</revision>
+<revision name="981" taskid="328">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+</revision>
+<revision name="982" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="984" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="985" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="986" taskid="328">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+</revision>
+<revision name="987" taskid="328">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_PurchaseProcessUtil.java" type="M"/>
+</revision>
+<revision name="988" taskid="328">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_PurchaseProcessUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/Z_ProcesoCompra.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_UpdateAreasSolicitantesVector.java" type="D"/>
+</revision>
+<revision name="989" taskid="328">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+</revision>
+<revision name="990" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="991" taskid="328">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_PurchaseProcessUtil.java" type="M"/>
+</revision>
+<revision name="992" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_AwardSummaryDForm.aml" type="M"/>
+</revision>
+<revision name="993" taskid="328">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/telefonica.ACM.Z_ProcesoCompra.csv" type="M"/>
+</revision>
+<revision name="994" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_AwardSummaryDForm.aml" type="M"/>
+</revision>
+<revision name="995" taskid="326">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_AwardSummaryDForm.aml" type="M"/>
+</revision>
+<revision name="996" taskid="322">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/task/Z_LoadRG3.java" type="M"/>
+</revision>
+<revision name="997" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="998" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+</revision>
+<revision name="999" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+</revision>
+<revision name="1000" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="1001" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/aml.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/aml.Z_LineaPC.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/aml.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/.settings/org.eclipse.core.resources.prefs" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/aml.Z_LineaPC.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/aml.Z_LineaPC.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/pt_BR/strings/aml.Z_LineaPC.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/telefonica.tcg.Z_GlobalProcessKeys.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/cs_CZ/strings/telefonica.rules.reasons.csv" type="M"/>
+</revision>
+<revision name="1002" taskid="328">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_PurchaseProcessUtil.java" type="M"/>
+</revision>
+<revision name="1003" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/DocumentExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_DebugDocumentChoice.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="1004" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/DocumentExt.aml" type="M"/>
+</revision>
+<revision name="1005" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/DocumentExt.aml" type="M"/>
+</revision>
+<revision name="1006" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/DocumentExt.aml" type="M"/>
+</revision>
+<revision name="1007" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="1008" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="1009" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/DocumentExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="1010" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/Z_PropagaDocumentId.java" type="M"/>
+</revision>
+<revision name="1011" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/DocumentExt.aml" type="M"/>
+</revision>
+<revision name="1013" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/InsproUtil.java" type="M"/>
+</revision>
+<revision name="1014" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+</revision>
+<revision name="1016" taskid="318">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_PurchaseRequestDformLineUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/logs/SimpleLog.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/util/logs/SimpleLog.java" type="M"/>
+</revision>
+<revision name="1017" taskid="318">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/logs/SimpleLog.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/util/logs/SimpleLog.java" type="M"/>
+</revision>
+<revision name="1018" taskid="323">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/PesosReglas.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/Global/dataLoads/Z_FACT_PeticionCompra_Update.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/Global/dataLoads/Z_FACT_PeticionCompra.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_PeticionCompra.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/csvvar1/partitions/csvpart1/data/rules/SortRules.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/de_DE/strings/aml.Z_PeticionCompra.csv" type="M"/>
+</revision>
+<revision name="1019" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.Z_SG_ContractWorkspace.csv" type="M"/>
+</revision>
+<revision name="1020" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_FullView.aml" type="M"/>
+</revision>
+<revision name="1021" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_EditView.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_FullView.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_CopyProjectObjectDuplicate.aml" type="M"/>
+</revision>
+<revision name="1022" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1023" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1024" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1025" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1026" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1027" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1028" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1029" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ServiciosJuridicos.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.analysis.Z_ServiciosJuridicos.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ServiciosJuridicos.xml" type="M"/>
+</revision>
+<revision name="1030" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/analysisAppFiles/loadDB/AnalysisLoadDB.ServiciosJuridicos.txt" type="A"/>
+</revision>
+<revision name="1031" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/analysisAppFiles/loadDB/AnalysisLoadDB.ServiciosJuridicos.txt" type="M"/>
+</revision>
+<revision name="1032" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.analysis.Z_InvFactInvoiceLineItemExt.csv" type="M"/>
+</revision>
+<revision name="1033" taskid="361">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/AggregationTrigger.java" type="M"/>
+</revision>
+<revision name="1034" taskid="323">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/Global/dataLoads/Z_FACT_PeticionCompra_Update.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/Global/dataLoads/Z_FACT_PeticionCompra.xml" type="M"/>
+</revision>
+<revision name="1035" taskid="326">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/task/Z_LoadR40.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/Z_AwardLineGroupsExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_AwardLineExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/com/csc/tce/sfsc/vo/p40/R40T2VO.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/Z_ValidaRecibidoR40.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/Z_AwardLineUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/com/csc/tce/sfsc/dao/config/table/R40_T2.properties" type="M"/>
+</revision>
+<revision name="1036" taskid="326">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/Z_ValidaRecibidoR40.java" type="M"/>
+</revision>
+<revision name="1037" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_InvFactInvoiceLineItemExt.aml" type="M"/>
+</revision>
+<revision name="1038" taskid="330">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_RFXAnalysisExt.aml" type="A"/>
+</revision>
+<revision name="1039" taskid="358">
+<file path="/branches/MANT128/Servidor Upstream/Server/src.core/ariba/collaborate/documentui/widgets/AbstractDocumentDownloadIcon.java" type="A"/>
+</revision>
+<revision name="1040" taskid="361">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/AggregationTrigger.java" type="M"/>
+</revision>
+<revision name="1041" taskid="330">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_RFXAnalysisExt.aml" type="M"/>
+</revision>
+<revision name="1042" taskid="330">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_RFXAnalysisExt.aml" type="M"/>
+</revision>
+<revision name="1043" taskid="330">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_RFXAnalysisExt.aml" type="M"/>
+</revision>
+<revision name="1044" taskid="330">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_RFXAnalysisExt.aml" type="M"/>
+</revision>
+<revision name="1045" taskid="330">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_RFXAnalysisExt.aml" type="M"/>
+</revision>
+<revision name="1046" taskid="336">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/collaborate/contracts/Z_SG_ContractWorkspace.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/collaborate" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/collaborate/contracts" type="A"/>
+</revision>
+<revision name="1047" taskid="330">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_RFXAnalysisExt.aml" type="M"/>
+</revision>
+<revision name="1048" taskid="330">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_RFXAnalysisExt.aml" type="M"/>
+</revision>
+<revision name="1049" taskid="330">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_RFXAnalysisExt.aml" type="M"/>
+</revision>
+<revision name="1050" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+</revision>
+<revision name="1051" taskid="330">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_RFXAnalysisExt.aml" type="M"/>
+</revision>
+<revision name="1052" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+</revision>
+<revision name="1053" taskid="330">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_RFXAnalysisExt.xml" type="A"/>
+</revision>
+<revision name="1054" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/Z_Organization.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SetUnidadInscripcion.java" type="A"/>
+</revision>
+<revision name="1055" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SetUnidadInscripcion.java" type="M"/>
+</revision>
+<revision name="1056" taskid="358">
+<file path="/branches/MANT128/Servidor Upstream/Server/src.core/ariba/collaborate/core/Document.java" type="M"/>
+</revision>
+<revision name="1057" taskid="336">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/collaborate/contracts/Z_SG_ContractWorkspace.java" type="M"/>
+</revision>
+<revision name="1058" taskid="323">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.analysis.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/aml.analysis.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.analysis.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/aml.analysis.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/analysisAppFiles/loadDB/AnalysisLoadDB.Tlf_00.00-dataload-ATENTO.txt" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/aml.analysis.Z_PeticionCompra.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/aml.analysis.Z_PeticionCompra.csv" type="M"/>
+</revision>
+<revision name="1059" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+</revision>
+<revision name="1060" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+</revision>
+<revision name="1061" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/custom/condition/SameClusterRoot.java" type="A"/>
+</revision>
+<revision name="1062" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+</revision>
+<revision name="1063" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+</revision>
+<revision name="1064" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+</revision>
+<revision name="1065" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+</revision>
+<revision name="1066" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+</revision>
+<revision name="1067" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+</revision>
+<revision name="1068" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+</revision>
+<revision name="1069" taskid="332">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_ProjectSearchFields.aml" type="M"/>
+</revision>
+<revision name="1070" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SetUnidadInscripcion.java" type="M"/>
+</revision>
+<revision name="1071" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SetUnidadInscripcion.java" type="M"/>
+</revision>
+<revision name="1072" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/forms/bidComparison/Z_BidComparison.htm" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_CorrectorReferencias.java" type="A"/>
+</revision>
+<revision name="1073" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/forms/bidComparison/Z_BidComparison.htm" type="M"/>
+</revision>
+<revision name="1074" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/forms/bidComparison/Z_BidComparison.htm" type="M"/>
+</revision>
+<revision name="1075" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/src.core/ariba/htmlui/fieldsui" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src.core/ariba/htmlui/fieldsui/widgets" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src.core/ariba/htmlui/fieldsui/widgets/ARWTemplateGroupView.java" type="A"/>
+</revision>
+<revision name="1076" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/forms/bidComparison/Z_BidComparison.htm" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_CorrectorReferencias.java" type="D"/>
+</revision>
+<revision name="1077" taskid="326">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/Z_PeticionCompraUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_PurchaseRequestDformUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/UpdateFormalizationPersistentObject.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_AwardSummaryDForm.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/cXML/template/pgcs/TLF_PurchaseRequestEncode.awl" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/telefonica/OrganizationProperties.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestFactory.java" type="M"/>
+</revision>
+<revision name="1078" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_PurchaseRequestDformLineUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/util/logs/SimpleLog.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+</revision>
+<revision name="1079" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+</revision>
+<revision name="1081" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/Z_ReconstructWrongReferences.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_BidComparisonDForm.aml" type="M"/>
+</revision>
+<revision name="1082" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/forms/bidComparison/Z_BidComparison.htm" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/.classpath" type="M"/>
+</revision>
+<revision name="1083" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/Z_ReconstructWrongReferences.java" type="M"/>
+</revision>
+<revision name="1084" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/forms/bidComparison/Z_BidComparison.htm" type="M"/>
+</revision>
+<revision name="1085" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/nametable/Z_PurchaseRequestRequesterNameTable.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/custom/condition/SameClusterRoot.java" type="D"/>
+</revision>
+<revision name="1086" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/forms/PurchaseRequestDform.htm" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+</revision>
+<revision name="1087" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/nametable/Z_PurchaseRequestRequesterNameTable.java" type="M"/>
+</revision>
+<revision name="1088" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+</revision>
+<revision name="1089" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+</revision>
+<revision name="1090" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+</revision>
+<revision name="1091" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/task/Z_LoadPCFromP1.java" type="M"/>
+</revision>
+<revision name="1092" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/forms/PurchaseRequestDform.htm" type="M"/>
+</revision>
+<revision name="1093" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/forms/bidComparison/Z_BidComparison.htm" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/Z_ReconstructWrongReferences.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/forms/PurchaseRequestDform.htm" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_PurchaseRequestForm.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_BidComparisonDForm.aml" type="M"/>
+</revision>
+<revision name="1096" taskid="303">
+<file path="/branches/MANT128/Servidor Upstream/Server/src.core/ariba/collaborate/documentui/CreateDocumentChooserPage.java" type="A"/>
+</revision>
+<revision name="1097" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/nametable/Z_InvitedSuppliersForSearch.java" type="A"/>
+</revision>
+<revision name="1098" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/nametable/Z_InvitedSuppliersForSearch.java" type="M"/>
+</revision>
+<revision name="1100" taskid="360">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_SupplierProfileUpdateRequest.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.Z_inspro_Organization.csv" type="M"/>
+</revision>
+<revision name="1101" taskid="360">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_SupplierProfileUpdateRequest.java" type="M"/>
+</revision>
+<revision name="1102" taskid="360">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_SupplierProfileUpdateRequest.java" type="M"/>
+</revision>
+<revision name="1103" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_ObjectDetails.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_Contratista.aml" type="M"/>
+</revision>
+<revision name="1104" taskid="360">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.Z_inspro_Organization.csv" type="M"/>
+</revision>
+<revision name="1105" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_Contratista.aml" type="M"/>
+</revision>
+<revision name="1106" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/nametable/Z_InvitedSuppliersForSearch.java" type="M"/>
+</revision>
+<revision name="1107" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_ObjectDetails.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/ObjectManagerExt.acf" type="M"/>
+</revision>
+<revision name="1108" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_Contratista.aml" type="M"/>
+</revision>
+<revision name="1109" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_HistoricoPujas.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_NegotiatedItem.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/grupos/Z_NegotiatedItemGroups.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/.settings" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/mesa/Z_GenerateExcelUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ResumenNegociacion.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/util/Z_NegotiatedItemUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/grupos/Z_BidComparisonDFormGroups.aml" type="M"/>
+</revision>
+<revision name="1110" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/util/Z_NegotiatedItemUtil.java" type="M"/>
+</revision>
+<revision name="1111" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_Contratista.aml" type="M"/>
+</revision>
+<revision name="1112" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/nametable/Z_InvitedSuppliersForSearch.java" type="M"/>
+</revision>
+<revision name="1113" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/nametable/Z_InvitedSuppliersForSearch.java" type="M"/>
+</revision>
+<revision name="1114" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/nametable/Z_InvitedSuppliersForSearch.java" type="M"/>
+</revision>
+<revision name="1115" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/ScheduledTasks.core.table.merge" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="A"/>
+</revision>
+<revision name="1116" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/ScheduledTasks.core.table.merge" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1117" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+</revision>
+<revision name="1118" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1119" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1120" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+</revision>
+<revision name="1121" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1122" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1123" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/util/Z_NegotiatedItemUtil.java" type="M"/>
+</revision>
+<revision name="1124" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1125" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_Contratista.aml" type="M"/>
+</revision>
+<revision name="1126" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_NegotiatedItem.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+</revision>
+<revision name="1127" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_ObjectDetails.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_Contratista.aml" type="M"/>
+</revision>
+<revision name="1128" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_ObjectDetails.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_Contratista.aml" type="M"/>
+</revision>
+<revision name="1129" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1130" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1131" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1132" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1133" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/aml.Z_SG_Contratista.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/aml.Z_SG_Contratista.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.Z_SG_Contratista.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/aml.Z_SG_Contratista.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.Z_SG_Contratista.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/aml.Z_SG_Contratista.csv" type="M"/>
+</revision>
+<revision name="1134" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_NotificationProcessCancelEmailMessage.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/workflows/Z_ProcesoCompraWorkflow.awf" type="M"/>
+</revision>
+<revision name="1135" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+</revision>
+<revision name="1136" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_NotificationProcessCancelEmailMessage.java" type="D"/>
+</revision>
+<revision name="1137" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_NegotiatedItem.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/util/Z_BidComparisonDFormUtil.java" type="M"/>
+</revision>
+<revision name="1138" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+</revision>
+<revision name="1139" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+</revision>
+<revision name="1140" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+</revision>
+<revision name="1141" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/Z_NotificationProcessCancel.csv" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/email/Z_ProcessCancel.htm" type="A"/>
+</revision>
+<revision name="1142" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+</revision>
+<revision name="1143" taskid="375">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.Z_inspro_Organization.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/aml.Z_inspro_Organization.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/aml.Z_inspro_Organization.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/aml.Z_inspro_Organization.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.Z_inspro_Organization.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/aml.Z_inspro_Organization.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/Z_NotificationSenderUtil.java" type="M"/>
+</revision>
+<revision name="1144" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/email/Z_ProcessCancel.htm" type="M"/>
+</revision>
+<revision name="1145" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SetUnidadInscripcion.java" type="M"/>
+</revision>
+<revision name="1146" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/email/Z_ProcessCancel.htm" type="M"/>
+</revision>
+<revision name="1147" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+</revision>
+<revision name="1148" taskid="375">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/Z_NotificationSenderUtil.java" type="M"/>
+</revision>
+<revision name="1149" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/email/Z_ProcessCancel.htm" type="M"/>
+</revision>
+<revision name="1150" taskid="375">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/Z_NotificationSenderUtil.java" type="M"/>
+</revision>
+<revision name="1151" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_WorkspaceUtil.java" type="M"/>
+</revision>
+<revision name="1152" taskid="376">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/htmlui/baseui/Z_PCItemsARPObjectDetails.java" type="M"/>
+</revision>
+<revision name="1153" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/ariba/variants/sapvar1/extensions/SAPRequisitionExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/Z_SetCompanyCodeAndPurchaseOrgInMAR.java" type="A"/>
+</revision>
+<revision name="1154" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/Z_SetCompanyCodeAndPurchaseOrgInMAR.java" type="M"/>
+</revision>
+<revision name="1155" taskid="376">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/htmlui/baseui/Z_PCItemsARPObjectDetails.java" type="M"/>
+</revision>
+<revision name="1156" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/ariba/variants/sapvar1/extensions/SAPRequisitionExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/Z_SetCompanyCodeAndPurchaseOrgInMAR.java" type="M"/>
+</revision>
+<revision name="1157" taskid="376">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_NegotiatedItem.aml" type="M"/>
+</revision>
+<revision name="1158" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/ariba/variants/sapvar1/extensions/SAPRequisitionExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/Z_SetCompanyCodeAndPurchaseOrgInMAR.java" type="M"/>
+</revision>
+<revision name="1159" taskid="374">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+</revision>
+<revision name="1160" taskid="374">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+</revision>
+<revision name="1161" taskid="374">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra_Adjudicado.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.analysis.Z_ProcesoCompra_Adjudicado.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ProcesoCompra_Adjudicado.xml" type="M"/>
+</revision>
+<revision name="1162" taskid="374">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ProcesoCompra_Adjudicado.xml" type="M"/>
+</revision>
+<revision name="1163" taskid="376">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/htmlui/baseui/Z_PCItemsARPObjectDetails.java" type="M"/>
+</revision>
+<revision name="1164" taskid="374">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ProcesoCompra.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ResumenNegociacion.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ResumenNegociacion_Update.xml" type="M"/>
+</revision>
+<revision name="1165" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/ContractWorkspaceExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/CheckPlanTasks.java" type="A"/>
+</revision>
+<revision name="1166" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+</revision>
+<revision name="1167" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+</revision>
+<revision name="1168" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/CheckPlanTasks.java" type="M"/>
+</revision>
+<revision name="1169" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+</revision>
+<revision name="1170" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/ContractWorkspaceExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/CheckPlanTasks.java" type="M"/>
+</revision>
+<revision name="1171" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/CheckPlanTasks.java" type="M"/>
+</revision>
+<revision name="1172" taskid="333">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="1173" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/CheckPlanTasks.java" type="M"/>
+</revision>
+<revision name="1174" taskid="333">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="1175" taskid="333">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="1176" taskid="333">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="1177" taskid="333">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="1178" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/Log.Z_ACM_Util.csv" type="A"/>
+</revision>
+<revision name="1179" taskid="333">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="1180" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/Log.Z_ACM_Util.csv" type="D"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/Log.ACM.Z_ACM_Util.csv" type="A"/>
+</revision>
+<revision name="1181" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/Log.ACM.Z_ACM_Action.csv" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/CheckPlanTasks.java" type="M"/>
+</revision>
+<revision name="1182" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/action/CheckPlanTasks.java" type="M"/>
+</revision>
+<revision name="1183" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_WorkspaceUtil.java" type="M"/>
+</revision>
+<revision name="1184" taskid="352">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/sourcing/task/Z_NotifyDueDate.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/sourcing/task" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/es/ActionTemplateResource.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/pt_BR/ActionTemplateResource.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/ScheduledTasks.core.table.merge" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/en/ActionTemplateResource.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/cs_CZ/ActionTemplateResource.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/ActionTemplateResource.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/de/content/ATR90.atr" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/de/ActionTemplateResource.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/cs_CZ/content/ATR90.atr" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/en/content/ATR90.atr" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/Actions.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/pt_BR/content/ATR90.atr" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/es/content/ATR90.atr" type="A"/>
+</revision>
+<revision name="1185" taskid="352">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/sourcing/task/Z_NotifyDueDate.java" type="M"/>
+</revision>
+<revision name="1186" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_CXMLAccountingYearLine.java" type="M"/>
+</revision>
+<revision name="1187" taskid="332">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_ProjectSearchFields.aml" type="M"/>
+</revision>
+<revision name="1188" taskid="352">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/sourcing/task/Z_NotifyDueDate.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/ActionNotificationMethodMap.csv" type="M"/>
+</revision>
+<revision name="1189" taskid="352">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/Log.ACM.Z_ACM_Task.csv" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/sourcing/task/Z_NotifyDueDate.java" type="M"/>
+</revision>
+<revision name="1190" taskid="326">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/aml.Z_AwardLine.csv" type="M"/>
+</revision>
+<revision name="1191" taskid="326">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/aml.Z_AwardLine.csv" type="M"/>
+</revision>
+<revision name="1192" taskid="352">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/sourcing/task/Z_NotifyDueDate.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/ScheduledTasks.core.table.merge" type="M"/>
+</revision>
+<revision name="1193" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+</revision>
+<revision name="1194" taskid="331">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.analysis.Z_CostCenter.csv" type="M"/>
+</revision>
+<revision name="1195" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+</revision>
+<revision name="1196" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/Z_NotificationProcessCancel.csv" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/Z_NotificationProcessCancel.csv" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/Z_NotificationProcessCancel.csv" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/Z_NotificationProcessCancel.csv" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/Z_NotificationProcessCancel.csv" type="A"/>
+</revision>
+<revision name="1197" taskid="352">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/pt_BR/Actions.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/es/Actions.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/de/Actions.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/cs_CZ/Actions.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/en/Actions.csv" type="M"/>
+</revision>
+<revision name="1198" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/email/Z_ProcessCancel.htm" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/Z_NotificationProcessCancel.csv" type="M"/>
+</revision>
+<revision name="1199" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/nametable/Z_PurchaseRequestRequesterNameTable.java" type="M"/>
+</revision>
+<revision name="1200" taskid="316">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/ariba/invoicing/NewAribaNetworkInvoiceLoaderScheduledTask.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/partitions/None/CommonScheduledTasks.table" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/invoicing/custom/inv/TelefonicaInvoiceConsumer.java" type="A"/>
+</revision>
+<revision name="1201" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SetUnidadInscripcion.java" type="M"/>
+</revision>
+<revision name="1202" taskid="377">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/util/Z_BidComparisonDFormUtil.java" type="M"/>
+</revision>
+<revision name="1203" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SetUnidadInscripcion.java" type="M"/>
+</revision>
+<revision name="1204" taskid="316">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/invoicing/custom/inv/TelefonicaInvoiceConsumer.java" type="M"/>
+</revision>
+<revision name="1205" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SetUnidadInscripcion.java" type="M"/>
+</revision>
+<revision name="1206" taskid="374">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.analysis.Z_ProcesoCompra_Adjudicado.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/aml.analysis.Z_ProcesoCompra_Adjudicado.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/aml.analysis.Z_ProcesoCompra_Adjudicado.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/aml.analysis.Z_ProcesoCompra_Adjudicado.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/aml.analysis.Z_ProcesoCompra_Adjudicado.csv" type="M"/>
+</revision>
+<revision name="1207" taskid="331">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.analysis.Z_InvFactInvoiceLineItemExt.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_InvFactInvoiceLineItemExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.analysis.Z_CostCenter.csv" type="M"/>
+</revision>
+<revision name="1208" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ServiciosJuridicos.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_EditView.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.Z_SG_ContractWorkspace.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.analysis.Z_ServiciosJuridicos.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ServiciosJuridicos.xml" type="M"/>
+</revision>
+<revision name="1209" taskid="374">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ResumenNegociacion.xml" type="M"/>
+</revision>
+<revision name="1210" taskid="374">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="D"/>
+</revision>
+<revision name="1211" taskid="333">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="1212" taskid="333">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="1213" taskid="333">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="1214" taskid="333">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/AwardedBuyersSuppliersGetter.java" type="M"/>
+</revision>
+<revision name="1215" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+</revision>
+<revision name="1216" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+</revision>
+<revision name="1217" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/SetUnidadInscripcion.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/Z_Organization.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SendNotificationOnUnidadInscripcionChange.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SetUnidadInscripcion.java" type="M"/>
+</revision>
+<revision name="1218" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/Z_Organization.aml" type="M"/>
+</revision>
+<revision name="1219" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+</revision>
+<revision name="1220" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/Z_Organization.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SendNotificationOnUnidadInscripcionChange.java" type="M"/>
+</revision>
+<revision name="1221" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+</revision>
+<revision name="1222" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+</revision>
+<revision name="1223" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+</revision>
+<revision name="1224" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/Log.PGCSII.CXML.csv" type="A"/>
+</revision>
+<revision name="1225" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SendNotificationOnUnidadInscripcionChange.java" type="M"/>
+</revision>
+<revision name="1226" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/Z_Organization.aml" type="M"/>
+</revision>
+<revision name="1227" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+</revision>
+<revision name="1228" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+</revision>
+<revision name="1229" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/nametable/Z_InvitedSuppliersForSearch.java" type="M"/>
+</revision>
+<revision name="1230" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/nametable/Z_InvitedSuppliersForSearch.java" type="M"/>
+</revision>
+<revision name="1231" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+</revision>
+<revision name="1232" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/nametable/Z_InvitedSuppliersForSearch.java" type="M"/>
+</revision>
+<revision name="1233" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/grupos/Z_NegotiatedItemGroups.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/grupos/Z_BidSummaryItemGroups.aml" type="M"/>
+</revision>
+<revision name="1234" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/telefonica/acm/controller/Z_ARCTableWithFields.awl" type="M"/>
+</revision>
+<revision name="1235" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/telefonica/acm/controller/Z_ARCTableWithFields.awl" type="M"/>
+</revision>
+<revision name="1236" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/telefonica/acm/controller/Z_ARCTableWithFields.awl" type="M"/>
+</revision>
+<revision name="1237" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+</revision>
+<revision name="1238" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/telefonica/acm/controller/Z_ARCTableWithFields.awl" type="M"/>
+</revision>
+<revision name="1239" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/telefonica/acm/controller/Z_ARCTableWithFields.awl" type="M"/>
+</revision>
+<revision name="1240" taskid="55">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_AddSupplierContactsTask.java" type="M"/>
+</revision>
+<revision name="1241" taskid="332">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/custom/nametable/sg/Z_SG_ApoderadosNameTable.java" type="M"/>
+</revision>
+<revision name="1242" taskid="374">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ProcesoCompra_Adjudicado.xml" type="M"/>
+</revision>
+<revision name="1243" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_CopyProjectObjectDuplicate.aml" type="M"/>
+</revision>
+<revision name="1244" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_CopyProjectObjectDuplicate.aml" type="M"/>
+</revision>
+<revision name="1245" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1246" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_CopyProjectObjectDuplicate.aml" type="M"/>
+</revision>
+<revision name="1247" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_EditView.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_FullView.aml" type="M"/>
+</revision>
+<revision name="1248" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1249" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1250" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1251" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1252" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1253" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+</revision>
+<revision name="1254" taskid="308">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/GetEmpresasRealizaComprasForPGCSTask.java" type="M"/>
+</revision>
+<revision name="1255" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1256" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_CopyProjectObjectDuplicate.aml" type="M"/>
+</revision>
+<revision name="1257" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_CopyProjectObjectDuplicate.aml" type="M"/>
+</revision>
+<revision name="1258" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_CopyProjectObjectDuplicate.aml" type="M"/>
+</revision>
+<revision name="1259" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_SG_ContractWorkspaceExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ServiciosJuridicos.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_EditView.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_FullView.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_CopyProjectObjectDuplicate.aml" type="M"/>
+</revision>
+<revision name="1260" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_CopyProjectObjectDuplicate.aml" type="M"/>
+</revision>
+<revision name="1261" taskid="335">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/task/Z_LoadContratistaAttachmentFiles.java" type="M"/>
+</revision>
+<revision name="1262" taskid="381">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/GetEmpresasRealizaComprasForPGCSTask.java" type="M"/>
+</revision>
+<revision name="1263" taskid="360">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_SupplierProfileUpdateRequest.java" type="M"/>
+</revision>
+<revision name="1264" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/telefonica/acm/controller/Z_ARCTableWithFields.awl" type="M"/>
+</revision>
+<revision name="1265" taskid="332">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/custom/nametable/Z_ApoderadoNameTable.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_ProjectSearchFields.aml" type="M"/>
+</revision>
+<revision name="1266" taskid="360">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/task/Z_SupplierProfileUpdateRequest.java" type="M"/>
+</revision>
+<revision name="1267" taskid="381">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/rules/Z_PGCSProjectDocumentApprovable.rul" type="M"/>
+</revision>
+<revision name="1268" taskid="365">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/nametable/Z_PurchaseRequestRequesterNameTable.java" type="M"/>
+</revision>
+<revision name="1269" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_HistoricoPujas.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ResumenNegociacion.xml" type="M"/>
+</revision>
+<revision name="1270" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/ariba/variants/sapvar1/extensions/SAPRequisitionExt.aml" type="M"/>
+</revision>
+<revision name="1271" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/ariba/variants/sapvar1/extensions/SAPRequisitionExt.aml" type="M"/>
+</revision>
+<revision name="1272" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/ariba/variants/sapvar1/extensions/SAPRequisitionExt.aml" type="M"/>
+</revision>
+<revision name="1273" taskid="374">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ProcesoCompra_Update.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ProcesoCompra_Adjudicado_Update.xml" type="M"/>
+</revision>
+<revision name="1274" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_SG_ExploreSummary.aml" type="M"/>
+</revision>
+<revision name="1275" taskid="372">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/Z_RFXDocumentExt.aml" type="M"/>
+</revision>
+<revision name="1276" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_HistoricoPujas.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ResumenNegociacion.xml" type="M"/>
+</revision>
+<revision name="1277" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/mesa/Z_GenerateExcelUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_UPDATE_DetallesNegociacion.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/Z_HistoricoUtil.java" type="M"/>
+</revision>
+<revision name="1278" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_HistoricoPujas.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_UPDATE_DetallesNegociacion.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ResumenNegociacion.xml" type="M"/>
+</revision>
+<revision name="1279" taskid="383">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/MaybePGCSPaymentTermsDefaulter.java" type="M"/>
+</revision>
+<revision name="1280" taskid="383">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/Log.payment.csv" type="A"/>
+</revision>
+<revision name="1281" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/Z_SetCompanyCodeAndPurchaseOrgInMAR.java" type="M"/>
+</revision>
+<revision name="1282" taskid="383">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/MaybePGCSPaymentTermsDefaulter.java" type="M"/>
+</revision>
+<revision name="1283" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/Z_SetCompanyCodeAndPurchaseOrgInMAR.java" type="M"/>
+</revision>
+<revision name="1284" taskid="383">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/Log.payment.csv" type="D"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/Log.paymentTerms.csv" type="A"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/MaybePGCSPaymentTermsDefaulter.java" type="M"/>
+</revision>
+<revision name="1285" taskid="383">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/MaybePGCSPaymentTermsDefaulter.java" type="M"/>
+</revision>
+<revision name="1286" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/Z_SetCompanyCodeAndPurchaseOrgInMAR.java" type="M"/>
+</revision>
+<revision name="1287" taskid="383">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/MaybePGCSPaymentTermsDefaulter.java" type="M"/>
+</revision>
+<revision name="1288" taskid="302">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/derived/Z_ReconstructWrongReferences.java" type="M"/>
+</revision>
+<revision name="1289" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/email/Z_ProcessCancel.htm" type="M"/>
+</revision>
+<revision name="1290" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/email/Z_ProcessCancel.htm" type="M"/>
+</revision>
+<revision name="1291" taskid="384">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/Z_CDS_SACPais.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/partitions/None/data/telefonica/Z_SACPais.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/Z_CDS_Integracion.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/grupos/Z_CDS_Integracion.aml" type="M"/>
+</revision>
+<revision name="1292" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/grupos/Z_CDS_Integracion.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/Z_ACM_SACPais.aml" type="M"/>
+</revision>
+<revision name="1293" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_MultiValidChoices.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/telefonica/pgcs/Z_MultiValidChoicesPull.csv" type="A"/>
+</revision>
+<revision name="1294" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/telefonica/pgcs/Z_MultiValidChoicesPull.csv" type="M"/>
+</revision>
+<revision name="1295" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/BaseObject.js" type="M"/>
+</revision>
+<revision name="1296" taskid="313">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestService.java" type="M"/>
+</revision>
+<revision name="1298" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/BaseObject.js" type="M"/>
+</revision>
+<revision name="1299" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/BaseObject.js" type="M"/>
+</revision>
+<revision name="1301" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra_Adjudicado.aml" type="M"/>
+</revision>
+<revision name="1302" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra_Adjudicado.aml" type="M"/>
+</revision>
+<revision name="1303" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra_Adjudicado.aml" type="M"/>
+</revision>
+<revision name="1304" taskid="316">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/en_US/strings/Log.invoiceLoading.csv" type="A"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/invoicing/custom/inv/TelefonicaInvoiceConsumer.java" type="M"/>
+</revision>
+<revision name="1305" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra_Adjudicado.aml" type="M"/>
+</revision>
+<revision name="1306" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/telefonica.rules.reasons.csv" type="M"/>
+</revision>
+<revision name="1307" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/supplierdirect/data/rules/PGCSIIPesosReglas.csv" type="M"/>
+</revision>
+<revision name="1308" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="A"/>
+</revision>
+<revision name="1309" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+</revision>
+<revision name="1310" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+</revision>
+<revision name="1311" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+</revision>
+<revision name="1312" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+</revision>
+<revision name="1313" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+</revision>
+<revision name="1314" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+</revision>
+<revision name="1315" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+</revision>
+<revision name="1316" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+</revision>
+<revision name="1317" taskid="316">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/invoicing/custom/inv/TelefonicaInvoiceConsumer.java" type="M"/>
+</revision>
+<revision name="1318" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra_Adjudicado.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra.aml" type="M"/>
+</revision>
+<revision name="1319" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra_Adjudicado.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra.aml" type="M"/>
+</revision>
+<revision name="1320" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra_Adjudicado.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra.aml" type="M"/>
+</revision>
+<revision name="1321" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra_Adjudicado.aml" type="M"/>
+</revision>
+<revision name="1322" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra_Adjudicado.aml" type="M"/>
+</revision>
+<revision name="1323" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesoCompra_Adjudicado.aml" type="M"/>
+</revision>
+<revision name="1324" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/CountryExt.aml" type="M"/>
+</revision>
+<revision name="1325" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/file/MessageConfiguration.table" type="M"/>
+</revision>
+<revision name="1326" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/telefonica.rules.reasons.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/telefonica.rules.reasons.csv" type="M"/>
+</revision>
+<revision name="1327" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/BaseObject.js" type="M"/>
+</revision>
+<revision name="1328" taskid="384">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/partitions/None/data/telefonica/Z_SACPais.csv" type="M"/>
+</revision>
+<revision name="1329" taskid="361">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/mesa/Z_AgendadoGetter.java" type="M"/>
+</revision>
+<revision name="1330" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+</revision>
+<revision name="1331" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/FACT/Z_FACT_ProcesosCompra_DatosSAP.aml" type="M"/>
+</revision>
+<revision name="1332" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+</revision>
+<revision name="1333" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/Z_NotificationProcessCancel.csv" type="M"/>
+</revision>
+<revision name="1334" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsAwardLineFromCurrentEdition.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/pcdform/PcDformAwardLines.aml" type="M"/>
+</revision>
+<revision name="1335" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+</revision>
+<revision name="1336" taskid="361">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/mesa/Z_AgendadoGetter.java" type="M"/>
+</revision>
+<revision name="1337" taskid="352">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/de/ActionTemplateResource.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/de/Actions.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/cs_CZ/content/ATR90.atr" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/en/content/ATR90.atr" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/cs_CZ/Actions.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/en/ActionTemplateResource.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/cs_CZ/ActionTemplateResource.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/en/Actions.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/es/content/ATR90.atr" type="M"/>
+</revision>
+<revision name="1338" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/task/Z_LoadR40.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_AwardLineExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/cXML/template/pgcs/TLF_PurchaseRequestEncode.awl" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/cXML/template/pgcs/TLF_PurchaseRequestEncode.awl" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_CXMLAwardLine.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/Z_AwardLineUtil.java" type="M"/>
+</revision>
+<revision name="1339" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/Z_AwardLineUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_PurchaseRequestFactory.java" type="M"/>
+</revision>
+<revision name="1340" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsAwardLineFromCurrentEdition.java" type="M"/>
+</revision>
+<revision name="1341" taskid="366s">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+</revision>
+<revision name="1342" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/pcdform/PcDformAwardLines.aml" type="M"/>
+</revision>
+<revision name="1343" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsAwardLineFromCurrentEdition.java" type="M"/>
+</revision>
+<revision name="1344" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsAwardLineFromCurrentEdition.java" type="M"/>
+</revision>
+<revision name="1345" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsAwardLineFromCurrentEdition.java" type="M"/>
+</revision>
+<revision name="1346" taskid="331">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_InvFactInvoiceLineItemExt.aml" type="M"/>
+</revision>
+<revision name="1347" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsAwardLineFromCurrentEdition.java" type="M"/>
+</revision>
+<revision name="1348" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsAwardLineFromCurrentEdition.java" type="M"/>
+</revision>
+<revision name="1349" taskid="331">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_InvFactInvoiceLineItemExt.aml" type="M"/>
+</revision>
+<revision name="1350" taskid="331">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_InvFactInvoiceLineItemExt.aml" type="M"/>
+</revision>
+<revision name="1351" taskid="331">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_InvFactInvoiceLineItemExt.aml" type="M"/>
+</revision>
+<revision name="1352" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/cxml/TLF_CXMLAwardLine.java" type="M"/>
+</revision>
+<revision name="1353" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/ariba/variants/sapvar1/extensions/SAPRequisitionExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/Z_SetCompanyCodeAndPurchaseOrgInMAR.java" type="M"/>
+</revision>
+<revision name="1354" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/ariba/variants/sapvar1/extensions/SAPRequisitionExt.aml" type="M"/>
+</revision>
+<revision name="1355" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+</revision>
+<revision name="1356" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+</revision>
+<revision name="1357" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+</revision>
+<revision name="1358" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+</revision>
+<revision name="1359" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+</revision>
+<revision name="1360" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+</revision>
+<revision name="1361" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/task/Z_LoadR40.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_AwardLineExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsAwardLineFromCurrentEdition.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/actions/Z_EnviaPedidoERPToACM.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/util/Z_AwardLineUtil.java" type="M"/>
+</revision>
+<revision name="1362" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/ariba/variants/sapvar1/extensions/SAPRequisitionExt.aml" type="M"/>
+</revision>
+<revision name="1363" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/ariba/variants/sapvar1/extensions/SAPRequisitionExt.aml" type="M"/>
+</revision>
+<revision name="1364" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+</revision>
+<revision name="1365" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+</revision>
+<revision name="1366" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+</revision>
+<revision name="1367" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+</revision>
+<revision name="1368" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+</revision>
+<revision name="1369" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/Z_SetCompanyCodeAndPurchaseOrgInMAR.java" type="M"/>
+</revision>
+<revision name="1370" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/Z_SetCompanyCodeAndPurchaseOrgInMAR.java" type="M"/>
+</revision>
+<revision name="1371" taskid="331">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_InvFactInvoiceLineItemExt.aml" type="M"/>
+</revision>
+<revision name="1372" taskid="352">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/pt_BR/Actions.csv" type="M"/>
+</revision>
+<revision name="1373" taskid="352">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/pt_BR/ActionTemplateResource.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/pt_BR/content/ATR90.atr" type="M"/>
+</revision>
+<revision name="1374" taskid="331">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/analysis/Z_InvFactInvoiceLineItemExt.aml" type="M"/>
+</revision>
+<revision name="1375" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+</revision>
+<revision name="1376" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/grupos/Z_NegotiatedItemGroups.aml" type="M"/>
+</revision>
+<revision name="1377" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SetUnidadInscripcion.java" type="M"/>
+</revision>
+<revision name="1378" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/Z_NotificationProcessCancel.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/Z_NotificationProcessCancel.csv" type="M"/>
+</revision>
+<revision name="1379" taskid="374">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_ProcesoCompraExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.analysis.Z_ProcesoCompra_Adjudicado.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/aml.analysis.Z_ProcesoCompra_Adjudicado.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ResumenNegociacion.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/aml.analysis.Z_ProcesoCompra_Adjudicado.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/aml.analysis.Z_ProcesoCompra_Adjudicado.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/aml.analysis.Z_ProcesoCompra_Adjudicado.csv" type="M"/>
+</revision>
+<revision name="1380" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_BidDetails.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsAwardLineFromCurrentEdition.java" type="D"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/util/Z_AwardLineUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/util/Z_RoundUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsItemFromCurrentEdition.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/pcdform/PcDformAwardLines.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_RoundExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/workflows/Z_ProcesoCompraWorkflow.awf" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/com/csc/tce/sfsc/manager/impl/P40Manager.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_MarkPastEditionItems.java" type="A"/>
+</revision>
+<revision name="1381" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsItemFromCurrentEdition.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/pcdform/PcDformAwardLines.aml" type="M"/>
+</revision>
+<revision name="1383" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsItemFromCurrentEdition.java" type="M"/>
+</revision>
+<revision name="1384" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+</revision>
+<revision name="1385" taskid="386">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_BidDetails.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/util/Z_BidDetailsUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/config/telefonica/acm/controller/Z_ARCTableWithFields.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/condition/Z_IsItemFromCurrentEdition.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_MarkPastEditionItems.java" type="M"/>
+</revision>
+<revision name="1386" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/Z_Organization.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/action/Z_SendNotificationOnUnidadInscripcionChange.java" type="M"/>
+</revision>
+<revision name="1387" taskid="359">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/sourcing/inspro/Z_Organization.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/inspro/hook/Z_SupplierOrganizationManagerHook.java" type="M"/>
+</revision>
+<revision name="1388" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/util/Z_NegotiatedItemUtil.java" type="M"/>
+</revision>
+<revision name="1389" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/util/Z_NegotiatedItemUtil.java" type="M"/>
+</revision>
+<revision name="1390" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/aml.Z_BidSummaryItem.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.Z_BidSummaryItem.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/aml.Z_BidsDetails.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_BidSummaryItem.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.Z_BidsDetails.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/aml.Z_BidsDetails.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/aml.Z_BidsDetails.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/aml.Z_BidsDetails.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/aml.Z_BidSummaryItem.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/aml.Z_BidSummaryItem.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/aml.Z_BidSummaryItem.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/aml.Z_BidSummaryItem.csv" type="M"/>
+</revision>
+<revision name="1391" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="A"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/ScheduledTasks.table" type="M"/>
+</revision>
+<revision name="1392" taskid="337">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.Z_SG_ContractWorkspace.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/aml.analysis.Z_ServiciosJuridicos.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/aml.Z_SG_ContractWorkspace.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/aml.analysis.Z_ServiciosJuridicos.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/aml.Z_SG_ContractWorkspace.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/aml.Z_SG_ContractWorkspace.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/pt_BR/strings/aml.analysis.Z_ServiciosJuridicos.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs/strings/aml.analysis.Z_ServiciosJuridicos.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/cs_CZ/strings/aml.Z_SG_ContractWorkspace.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/de/strings/aml.analysis.Z_ServiciosJuridicos.csv" type="M"/>
+</revision>
+<revision name="1393" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/BaseObject.js" type="M"/>
+</revision>
+<revision name="1394" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/ScheduledTasks.table" type="M"/>
+</revision>
+<revision name="1396" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/BaseObject.js" type="M"/>
+</revision>
+<revision name="1397" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/acm/util/Z_NegotiatedItemUtil.java" type="M"/>
+</revision>
+<revision name="1398" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/hooks/Z_ValidaRecibidoR40.java" type="M"/>
+</revision>
+<revision name="1399" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/condition/IsSameCurrency.java" type="A"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1400" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1401" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1402" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1403" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1404" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1405" taskid="387">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/condition/IsVisibleWFChooser.java" type="M"/>
+</revision>
+<revision name="1406" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/rules/Z_PGCSProjectDocumentApprovable.rul" type="M"/>
+</revision>
+<revision name="1407" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/pt_BR/Actions.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/de/content/ATR90.atr" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/de/Actions.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/cs_CZ/content/ATR90.atr" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/en/content/ATR90.atr" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/cs_CZ/Actions.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/ActionTemplateResource.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/data/locales/es/content/ATR90.atr" type="M"/>
+</revision>
+<revision name="1408" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_RequisitionExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/actions/SetOriginalPriceInOriginalCurrency.java" type="A"/>
+</revision>
+<revision name="1409" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_RequisitionExt.aml" type="M"/>
+</revision>
+<revision name="1410" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_RequisitionExt.aml" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1411" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1412" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/condition/IsSameCurrency.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1413" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/condition/IsSameCurrency.java" type="M"/>
+</revision>
+<revision name="1414" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/pgcs/Z_RequisitionExt.aml" type="M"/>
+</revision>
+<revision name="1415" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1416" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1417" taskid="366">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/util/CheckPlanTasksVisitor.java" type="M"/>
+</revision>
+<revision name="1418" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/telefonica/acm/controller/Z_ARCTableWithFields.awl" type="M"/>
+</revision>
+<revision name="1419" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/telefonica/acm/controller/Z_ARCTableWithFields.awl" type="M"/>
+</revision>
+<revision name="1420" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_HistoricoPujas.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_FACT_ResumenNegociacion.xml" type="M"/>
+</revision>
+<revision name="1421" taskid="387">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/condition/IsVisibleWFChooser.java" type="M"/>
+</revision>
+<revision name="1422" taskid="384">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/rules/Z_PGCSProjectDocumentApprovable.rul" type="M"/>
+</revision>
+<revision name="1423" taskid="386">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/resource/es/strings/aml.Requisition.csv" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/pgcs/condition/IsSameCurrency.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/groups/LineItemGeneralFieldsExt.aml" type="M"/>
+</revision>
+<revision name="1424" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+</revision>
+<revision name="1425" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+</revision>
+<revision name="1426" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+</revision>
+<revision name="1427" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+</revision>
+<revision name="1428" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+</revision>
+<revision name="1429" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+</revision>
+<revision name="1430" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/ScheduledTasks.table" type="M"/>
+</revision>
+<revision name="1431" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/workflow/action/Z_NotificationProcessCancel.java" type="M"/>
+</revision>
+<revision name="1432" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/es/strings/Z_NotificationProcessCancel.csv" type="M"/>
+</revision>
+<revision name="1433" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/sourceTypes/ASM/dataLoads/Z_UPDATE_DetallesNegociacion.xml" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/partitions/None/ScheduledTasks.table" type="M"/>
+</revision>
+<revision name="1434" taskid="379">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/extensions/acm/pgcs/Z_BidSummaryItem.aml" type="M"/>
+</revision>
+<revision name="1435" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/email/Z_ProcessCancel.htm" type="M"/>
+</revision>
+<revision name="1436" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/Z_NotificationProcessCancel.csv" type="M"/>
+</revision>
+<revision name="1437" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/resource/en_US/strings/Z_NotificationProcessCancel.csv" type="M"/>
+</revision>
+<revision name="1438" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/email/Z_ProcessCancel.htm" type="M"/>
+</revision>
+<revision name="1439" taskid="370">
+<file path="/branches/MANT128/Servidor Upstream/Server/config/variants/Plain/email/Z_ProcessCancel.htm" type="M"/>
+</revision>
+<revision name="1440" taskid="388">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/com/csc/tce/sfsc/dao/impl/LogUtil.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/com/csc/tce/sfsc/dao/impl/BaseDAO.java" type="M"/>
+<file path="/branches/MANT128/Servidor Upstream/Server/src/com/csc/tce/sfsc/dao/impl/BaseDAO.java" type="M"/>
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/com/csc/tce/sfsc/dao/impl/LogUtil.java" type="M"/>
+</revision>
+<revision name="1441" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+</revision>
+<revision name="1442" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+</revision>
+<revision name="1443" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+</revision>
+<revision name="1444" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/config/variants/Plain/extensions/MasterAgreementRequestExt.aml" type="M"/>
+</revision>
+<revision name="1445" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+</revision>
+<revision name="1446" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+</revision>
+<revision name="1447" taskid="363">
+<file path="/branches/MANT128/Servidor Buyer/Server/classes/extensions/telefonica/buyer/actions/Z_SetCompanyCodeAndPurchaseOrgInMAR.java" type="M"/>
+</revision>
+<revision name="1448" taskid="373">
+<file path="/branches/MANT128/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_UpdateBidComments.java" type="M"/>
+</revision>
+<revision name="1474" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1474" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1475" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1476" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1477" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1477" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1478" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1478" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1479" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1479" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1480" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1480" taskid="409">
+<file path="/branches/mant/Servidor Upstream/Server/src/telefonica/pgcs/task/Z_GeneratePurchaseProcessFromDform.java" type="M"/>
+</revision>
+<revision name="1481" taskid="406">
+<file path="/branches/mant/Servidor Buyer/Server/config/variants/Plain/extensions/OrganizationExt.aml" type="A"/>
+<file path="/branches/mant/Servidor Buyer/Server/classes/extensions/custom/action/Z_UpdateMLS.java" type="A"/>
+</revision>
+<revision name="1481" taskid="406">
+<file path="/branches/mant/Servidor Buyer/Server/config/variants/Plain/extensions/OrganizationExt.aml" type="A"/>
+<file path="/branches/mant/Servidor Buyer/Server/classes/extensions/custom/action/Z_UpdateMLS.java" type="A"/>
+</revision>
+<revision name="1482" taskid="406">
+<file path="/branches/mant/Servidor Buyer/Server/config/variants/Plain/extensions/OrganizationExt.aml" type="M"/>
+</revision>
+<revision name="1483" taskid="406">
+<file path="/branches/mant/Servidor Buyer/Server/config/variants/Plain/extensions/OrganizationExt.aml" type="M"/>
+<file path="/branches/mant/Servidor Buyer/Server/classes/extensions/custom/action/Z_UpdateMLS.java" type="M"/>
+</revision>
+<revision name="1484" taskid="406">
+<file path="/branches/mant/Servidor Buyer/Server/config/variants/Plain/extensions/OrganizationExt.aml" type="M"/>
+<file path="/branches/mant/Servidor Buyer/Server/classes/extensions/custom/action/Z_UpdateMLS.java" type="M"/>
+</revision>
+<revision name="1485" taskid="406">
+<file path="/branches/mant/Servidor Buyer/Server/config/variants/Plain/extensions/OrganizationExt.aml" type="M"/>
+</revision>
+<revision name="1486" taskid="406">
+<file path="/branches/mant/Servidor Buyer/Server/config/variants/Plain/extensions/OrganizationExt.aml" type="M"/>
+</revision>
+<revision name="1487" taskid="406">
+<file path="/branches/mant/Servidor Buyer/Server/config/variants/Plain/extensions/OrganizationExt.aml" type="M"/>
+</revision>
+<revision name="1488" taskid="406">
+<file path="/branches/mant/Servidor Buyer/Server/config/variants/Plain/extensions/OrganizationExt.aml" type="M"/>
+</revision>
+</SVNCache>

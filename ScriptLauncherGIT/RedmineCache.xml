@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<RedmineCache>
+<task author="Diego Murias" id="2" idsalesforce="00031529" name="Literales estados Ofertas en Comparativas - Eliminar, dejar sólo acrónimos (PV, OK, NOKC, NOKT, NCT, NC o D)" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Diego Murias" id="3" idsalesforce="00020328" name="Compra para venta a terceros en Ítems de Negociación" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="4" idsalesforce="00028273" name="Petición de mejora: Incluisión de link de CREAR TICKET en el Dashboard" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Noemí Cotarelo" id="5" idsalesforce="00017200" name="Traducciones alemán (supplier)" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="6" idsalesforce="00017198" name="Acceso seguridad datos empresa realiza compra (Analysis)" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Noemí Cotarelo" id="7" idsalesforce="00017199" name="Traducciones alemán ACM" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="8" idsalesforce="00028259" name="Posibilidad de busqueda por numero de proceso" projectId="mant124" status="Cancelada" versionName=""/>
+<task author="Covadonga Florez García" id="9" idsalesforce="00036604" name="Change of translation in ACM with German settings" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="10" idsalesforce="00028278" name="Copia de documentos adjuntos al agregar procesos de compra" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="11" idsalesforce="00016773" name="Nuevo campo solped-posición" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="13" idsalesforce="00017431" name="% Ahorro incorrecto" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="14" idsalesforce="00017434" name="Importes nuevos contratos tras readjudicación" projectId="mant124" status="Cancelada" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="15" idsalesforce="00017498" name="Grupo Asesores LP" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="17" idsalesforce="00015220" name="Campo Z_IsFromEmergingCountry en ACM en Segunda Edición" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Diego Murias" id="19" idsalesforce="00022233" name="Completar tareas de procesos agendados" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="18" idsalesforce="00017445" name="Cantidad adjudicada en fact Z_ProcesoCompra_Adjudicado" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="20" idsalesforce="00039572" name="Evolutivo ACM y ANALYSIS (procesos derivan de acuerdo marco)" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="34" idsalesforce="00012413" name="Mejora para ACW: Edición de Fechas en contratos de derivados de ACM" projectId="mant124" status="Cerrada" versionName=""/>
+<task author="Covadonga Florez García" id="55" idsalesforce="00173104" name="Contactos desactivados en organizaciones impiden editar y salvar los cambios en los mismos" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Noel Menendez Vigo" id="60" idsalesforce="" name="Delegaciones upstream. Hay ciertos campos como el OnBehalfOf y el Delegation que no pasan de Buyer a ACM" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Rodrigo Lanza" id="77" idsalesforce="" name="Actualización entorno de desarrollo interfaz Filon" projectId="mant124" status="Cerrada" versionName=""/>
+<task author="Rodrigo Lanza" id="78" idsalesforce="" name="Modificación de las validaciones en los importes" projectId="mant124" status="Cancelada" versionName="MAN124"/>
+<task author="Diego Murias" id="79" idsalesforce="00050411" name="Nuevo email en ACM cuando se selecciona el comprador Coordinador de un proceso" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="85" idsalesforce="00017408" name="Problemas en la reindexación de catálogos" projectId="mant124" status="Parada" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="84" idsalesforce="00031165" name="Rm: RV: fallo en coste total PR430745" projectId="mant124" status="Parada" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="87" idsalesforce="00050873" name="Evolutivo excepción marcado compra conjunta en ACM para caso VIVO" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="86" idsalesforce="00020336" name="TimeZoneID negativo" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Noel Menendez Vigo" id="81" idsalesforce="00050602" name="TCE_Mantenimiento: Corrección etiquetas Procesos Complementados en Analysis en idioma inglés" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="83" idsalesforce="00017421" name="Permisos para deshacer reapertura de procesos de compra" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Noel Menendez Vigo" id="82" idsalesforce="00050882" name="TCE_Mantenimiento: Inclusión nuevos campos en resultado de búsqueda de procesos de compra" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="93" idsalesforce="00055083" name="Número de Solped en contratos" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="92" idsalesforce="00053626" name="Indicador de Rappel en P40s de adjudicación" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="95" idsalesforce="" name="Script para actualizar contratos" projectId="mant124" status="Cerrada" versionName=""/>
+<task author="Rodrigo Lanza" id="94" idsalesforce="" name="Actualizar interfaz de filón (pvcs y svn mantenimiento)" projectId="mant124" status="En desarrollo" versionName=""/>
+<task author="Rodrigo Lanza" id="88" idsalesforce="00053800" name="Petición de mejora para Tipo de cuenta en ACM" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Noel Menendez Vigo" id="90" idsalesforce="00054301" name="Error de sistema usuario CTCCastiCar en Búsquedas Petición de Compra BUYER" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="100" idsalesforce="00053407" name="Mejora para la reducción de presupuesto en los procesos de compra de ACM" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="101" idsalesforce="00053969" name="German translations" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="99" idsalesforce="" name="Generación querys de update para actualizar los valores del campo FeeTGS" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Noel Menendez Vigo" id="96" idsalesforce="00055263" name="Selección de cuenta contable en particiones csv" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="97" idsalesforce="00055647" name="Modificación correos de Upstream" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="108" idsalesforce="00057339" name="Carga dataload ASM.DataLoad.Z_SupplierQualityDelete" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="106" idsalesforce="" name="Pedidos en ordering" projectId="mant124" status="Cerrada" versionName=""/>
+<task author="Rodrigo Lanza" id="107" idsalesforce="00062549" name="Envío de cancelaciones de ACM a Buyer para empresas con Z_EnviaP40Publicado = true" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="127" idsalesforce="" name="Fix SP reapertura de contratos" projectId="mant124" status="Cerrada" versionName="SP14 UPSTREAM"/>
+<task author="Rodrigo Lanza" id="126" idsalesforce="" name="Bug en carga de P1s en integración" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Rodrigo Lanza" id="125" idsalesforce="00061959" name="Flujo de aprobacion de erróneo en pedidos derivados-Nodo Erroneo" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="124" idsalesforce="" name="TAREA Z_FailedDurableEvents" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="123" idsalesforce="" name="Tarea Z_EliminaFolderitemsApprove" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="139" idsalesforce="00079030" name="Cantidad solicitada en interfaz normalizada difiere de la carga en ACM y Buyer" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Sergio Ruiz" id="141" idsalesforce="00017452" name="Gestor solicitud y Coordinadores locales en análisis" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Covadonga Florez García" id="140" idsalesforce="00078701" name="Analysis - Acceso datos PGCS Z_EmpresaReallizaCompra a Peticion Compra" projectId="mant124" status="Cerrada" versionName="MAN125"/>
+<task author="Blanca García Rodriguez" id="143" idsalesforce="00079715" name="Indexación de contratos para mostrar en el cátalogo" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Rodrigo Lanza" id="142" idsalesforce="00079721" name="CDS" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Covadonga Florez García" id="129" idsalesforce="00061468" name="Traduccion Aleman Estrategia" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Diego Murias" id="128" idsalesforce="00066036" name="00066036 - TCE Mantenimiento: Nueva Etiqueta en brasileño" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="131" idsalesforce="00069555" name="Cambio Correo CAU y CEE" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="130" idsalesforce="" name="Nodo de reserva erróneo en cancelaciones de TME" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="133" idsalesforce="00066473" name="Ampliación número de decimales en cálculo de Precio Unitario de PC en Buyer con información de P1" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Sergio Ruiz" id="132" idsalesforce="00066465" name="Modificación regla aprobación de Tesorería" projectId="mant124" status="En producción" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="135" idsalesforce="" name="Fix Analysis 124" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Rodrigo Lanza" id="134" idsalesforce="00072396" name="Ocultar Tipo Cuenta de Líneas de Petición de Compra en ACM" projectId="mant124" status="Cerrada" versionName="MAN124"/>
+<task author="Covadonga Florez García" id="152" idsalesforce="00079117" name="Link a crear ticket solo sale en español" projectId="mant124" status="Cerrada" versionName="MAN125"/>
+<task author="Rodrigo Lanza" id="153" idsalesforce="00063962" name="Los compradores pueden crear proveedores" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Blanca García Rodriguez" id="154" idsalesforce="00077699" name="Inclusión BidComparison en cláusula incremental Dataload Adjudicados Analysis" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Covadonga Florez García" id="155" idsalesforce="00038258" name="Moneda Presupuestaria en Hecho Proceso Compra Adjudicado" projectId="mant124" status="Cerrada" versionName="MAN125"/>
+<task author="Sergio Ruiz" id="156" idsalesforce="00040681" name="Correctivo Plazo de pago en pedidos de CO (ACM)" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Rodrigo Lanza" id="157" idsalesforce="00031518" name="Correctivo visualización BidSummaryItem proveedores con estado PV, NOKC, NOKT, NC o D en ofertas anteriores." projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Blanca García Rodriguez" id="158" idsalesforce="00051212" name="Superusuario mesa Argentina" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Rodrigo Lanza" id="159" idsalesforce="00053263" name="Marca Código Global en ítem negociación y línea PC - MEJORA ACM y ANALYSIS" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Rodrigo Lanza" id="144" idsalesforce="00079088" name="TCE_Mantenimiento: Revisión tarea Reenvío P40s - MANT25" projectId="mant124" status="Cerrada" versionName="MAN125"/>
+<task author="Covadonga Florez García" id="145" idsalesforce="00079063" name="TCE_Mantenimiento: Problema longitud PrecioUnitarioAdjudicacion en P40s - MANT25" projectId="mant124" status="Cerrada" versionName="MAN125"/>
+<task author="" id="146" idsalesforce="00079705" name="TeamBackup y ProjectGroups" projectId="mant124" status="Parada" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="147" idsalesforce="00079706" name="ParentFolder RFX se pierde la referencia" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Covadonga Florez García" id="148" idsalesforce="00079712" name="Validación al abrir los términos" projectId="mant124" status="Cerrada" versionName="MAN125"/>
+<task author="Rodrigo Lanza" id="149" idsalesforce="00072362" name="Clases con trigger que impide la inserción en bloque" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Blanca García Rodriguez" id="150" idsalesforce="00072345" name="Dataload que se cargan siempre en Total" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Sergio Ruiz" id="151" idsalesforce="00072351" name="Tareas que se ejecutan siempre en Total" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Blanca García Rodriguez" id="168" idsalesforce="00088509" name="Corrección de traducción en asunto de correo de notificación" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Sergio Ruiz" id="175" idsalesforce="00090423" name="Incluir código SIF en dimensión EmpresaMesa de Analysis" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Blanca García Rodriguez" id="163" idsalesforce="00082853" name="Ocultar campos contables y eliminar validación en PRs de CO de partición tme" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Blanca García Rodriguez" id="162" idsalesforce="00082701" name="Inclusión marca Grupo Telefónica (Proveedor Intragrupo) en dimensión Supplier ANALYSIS - MANT25" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Rodrigo Lanza" id="161" idsalesforce="00081214" name="Adjuntar documentos en procesos de compra con única petición y campo &quot;Agregar&quot; con valor SI" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Sergio Ruiz" id="160" idsalesforce="00053256" name="Explotación Descripción Línea e Item en Analysis - MEJORA" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Sergio Ruiz" id="167" idsalesforce="00087485" name="Tareas de buyer que activan trazas a DEBUG" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Sergio Ruiz" id="166" idsalesforce="" name="Problemas con el nodo de tesorería del proceso 11152688" projectId="mant124" status="En desarrollo" versionName=""/>
+<task author="Rodrigo Lanza" id="165" idsalesforce="00046423" name="envío de notificaciones eventos e-S (mantenimiento)" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Sergio Ruiz" id="164" idsalesforce="00082719" name="Inclusión Rappel/Voucher y Código Rappel/Voucher en Analysis y visibilidad en ACM del código" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Covadonga Florez García" id="186" idsalesforce="00078701" name="Analysis - Acceso datos PGCS Z_EmpresaReallizaCompra a Peticion Compra (Mant 1.26)" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Sandra Mera" id="184" idsalesforce="00063749" name="AdapterSource para el objeto Language" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Covadonga Florez García" id="185" idsalesforce="00101192" name="Inclusión de Rappel y Codigo de Rappel en el hecho de peticiones de compra de Analysis" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="190" idsalesforce="00067906" name="petición de mejora Sourcing (precio aceptado subasta holandesa)" projectId="mant124" status="Parada" versionName="MAN126"/>
+<task author="" id="191" idsalesforce="00068823" name="TCE_Mantenimiento: Refresco sección Resumen Adjudicación en Comparativa de Ofertas" projectId="mant124" status="Cerrada" versionName="MAN126"/>
+<task author="Sergio Ruiz" id="178" idsalesforce="00094365" name="Tarea de eliminación de la carpeta Approve Items para los usuarios administradores" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Sergio Ruiz" id="179" idsalesforce="00095723" name="Assert al establecer el importe unitario en los items de negociacion" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="176" idsalesforce="00090631" name="Liberación de pedidos G3" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Sergio Ruiz" id="177" idsalesforce="00092108" name="Correccion de la condicion del estado en tarea Z_ERPOrderPushTask" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Rodrigo Lanza" id="183" idsalesforce="" name="Tarea Z_ReenviaP40 procesa demasiados registros" projectId="mant124" status="En producción" versionName="MAN125"/>
+<task author="Sergio Ruiz" id="205" idsalesforce="00054631" name="TCE_Mantenimiento: Solped Posición en pantalla vinculación items y cabecera PRs" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Sergio Ruiz" id="204" idsalesforce="00041367" name="TCE_Mantenimiento: Incidencia recálculo porcentaje de adjudicación en Comparativa al modificar el" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="206" idsalesforce="00054791" name="TCE Mantenimiento: Hora en los campos Fecha de las peticiones de compra" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Sergio Ruiz" id="201" idsalesforce="00086033" name="TCE_Mantenimiento: Modificación técnica regla de aprobación nodo de tesorería - Mantenimiento" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Covadonga Florez García" id="200" idsalesforce="00085148" name="TCE_Mantenimiento: Incidencia Conversiones en Publicación Comparativa - Presupuesto asignado" projectId="mant124" status="Cerrada" versionName="MAN126"/>
+<task author="Covadonga Florez García" id="203" idsalesforce="00081202" name="TCE_Mantenimiento: Validación publicación Petición Compra con datos Comparativa - Problema Conversiones Monetarias" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="202" idsalesforce="00056867" name="TCE_Mantenimiento: Incidencia en propuesta automática en ACM" projectId="mant124" status="Cerrada" versionName="MAN126"/>
+<task author="Sandra Mera" id="197" idsalesforce="00017419" name="Migrado de Siebel: 1-389355822" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Jorge García" id="196" idsalesforce="00017487" name="Migrado de Siebel: 1-421893261" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Jorge García" id="199" idsalesforce="00097652" name="Task information in German setting is not completely" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Covadonga Florez García" id="198" idsalesforce="00099154" name="Procesos de compra vacios no agregados no se cargan en Analysis" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="193" idsalesforce="00057784" name="TCE_Mantenimiento: Incidencia ACM publicación Petición Compra - Importe adjudicado no es igual a valores objetivo" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Covadonga Florez García" id="195" idsalesforce="00017474" name="Migrado de Siebel: 1-420586743" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="194" idsalesforce="00070383" name="Literales Local en_US en español" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Covadonga Florez García" id="220" idsalesforce="00114400" name="Presupuesto restante negativo en item negociado." projectId="mant124" status="Cerrada" versionName="MAN126"/>
+<task author="Sergio Ruiz" id="216" idsalesforce="00105364" name="Orden de los ítems de las comparativas de ofertas" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Jorge García" id="217" idsalesforce="00105797" name="Modificación de Literales de Mesa Virtual en ACM" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="218" idsalesforce="00103850" name="TCE_Mantenimiento: Incidencia duplicidad ofertas en procesos reabiertos de ACM" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Sergio Ruiz" id="219" idsalesforce="00111776" name="Wrong translation in Adquira" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Sandra Mera" id="212" idsalesforce="00101139" name=" Modificación de literales de Escenario TGS" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Jorge García" id="213" idsalesforce="00104967" name="Spanish description in English setting" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="214" idsalesforce="00105323" name="Modificación mensaje tarea de firma digital de ACW" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Sandra Mera" id="215" idsalesforce="00105339" name="Pérdida de la referencia correcta del contractWorkspace en los &quot;Plan&quot; cuando se hace una modificación de Borrador" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Jorge García" id="208" idsalesforce="00051824" name="Mejora en los comentarios de los procesos" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="209" idsalesforce="" name="Pérdida de DocumentChoice en RFXDocument" projectId="mant124" status="En desarrollo" versionName="MAN126"/>
+<task author="Sandra Mera" id="210" idsalesforce="00048075" name="Traducción etiqueta CompraAdherible" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Blanca García Rodriguez" id="211" idsalesforce="00072190" name="Perfil del usuario (SS: 1-433330311)" projectId="mant124" status="Cerrada" versionName="MAN126"/>
+<task author="Sergio Ruiz" id="239" idsalesforce="00017186" name="PasswordAdapter ManuallyMaintained" projectId="mant124" status="En desarrollo" versionName="MAN129"/>
+<task author="Covadonga Florez García" id="238" idsalesforce="00099201" name="Error de mensajes en regla de aprobación 'FDApoderados'" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Blanca García Rodriguez" id="237" idsalesforce="00106320" name="Modificación Notificaciones de Sourcing" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="236" idsalesforce="00104050" name="Incidencia de prueba para el workshop" projectId="mant124" status="Cerrada" versionName=""/>
+<task author="Rodrigo Lanza" id="235" idsalesforce="" name="Cambio en paquete no deja publicar Comparativa de ofertas" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Sergio Ruiz" id="234" idsalesforce="00138025" name="Nuevos campos para identificación de proveedores" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="232" idsalesforce="00103575" name="Corrección locale usuario proveedor autoregistro" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Sergio Ruiz" id="231" idsalesforce="00102625" name="Cambio en el java CreateContracts para Acuerdos Marco" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="230" idsalesforce="" name="Mejoras Dataloads Analysis" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="229" idsalesforce="" name="Programación de ejecución de javascripts" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Sergio Ruiz" id="228" idsalesforce="00106421" name="Aplicar reglas de WF de Mesa a Tarea de sesión de preparación (AMPLIACIÓN)" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Sergio Ruiz" id="227" idsalesforce="00119916" name="Tipo Negociación en ítems NO negociados por eSourcing y actualización procesos existentes" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="226" idsalesforce="00116171" name="Error en los acumuladores de los contratos de Buyer" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="225" idsalesforce="00116540" name="Inclusión BidComparisonDForm en cláusula incremental DataLoads Z_UPDATE_DetallesLineaNegociacion.xml, Z_UPDATE_DetallesNegociacion.xml y Z_UPDATE_EsProveedorUnico.xml" projectId="mant124" status="En producción" versionName="MAN126"/>
+<task author="Rodrigo Lanza" id="254" idsalesforce="00141662" name="Evolutivo ACM incluir tolerancia en validación importe readjudicado con importe contrato" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="252" idsalesforce="00141600" name="Modificación de notificación de Sourcing" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="253" idsalesforce="00141645" name="Evolutivo ACM incluir comprador en WF tarea aprobación configuración subastas" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="250" idsalesforce="00140016" name="Bloquear cambio de ámbito compra en Procesos en segundas ediciones" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="251" idsalesforce="00140496" name="Inclusion Fecha Adjudicacion en campo Observaciones mensajes P40 para GICE_TME" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="248" idsalesforce="00141302" name="Evolutivo ACM no validación Fecha Fin Necesidad obligatorio en PCs externas y con presupuesto revisado nulo" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="249" idsalesforce="00140909" name="Evolutivo Analysis Explotación Contacto Area Solicitante de Procesos de Compra" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="242" idsalesforce="00048663" name="Corrección en ACM - Comparativa" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Blanca García Rodriguez" id="240" idsalesforce="00053411" name="Mapeo campo Telefono en Z_Apoderado" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="241" idsalesforce="00076925" name="Tarea Z_GeneracionGruposTask" projectId="mant124" status="Parada" versionName=""/>
+<task author="Sergio Ruiz" id="272" idsalesforce="00132480" name="Traducción label Z_ObservacionesERPLabel en formulario Petición Compra ACM" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="279" idsalesforce="00126564" name="Bloqueo de usuario por número de accesos" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Blanca García Rodriguez" id="278" idsalesforce="00142069" name="ACTUALIZACION Pérdida de la referencia correcta del contractWorkspace en los Plan cuando se hace una modificación de Borrador" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Blanca García Rodriguez" id="277" idsalesforce="00141033" name="Edición del campo Descripción en el item de negociación" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="276" idsalesforce="00140911" name="Modificación de la regla PC_Buyer de Z_PeticionCompra" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="282" idsalesforce="00143833" name="Formalización de compras generales como Contratos Marco (TdE)" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Blanca García Rodriguez" id="281" idsalesforce="00143732" name="Eliminar mensaje de error en Acuerdos Marco de ACM" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Blanca García Rodriguez" id="280" idsalesforce="00142171" name="Modificación de Notificación de ACM" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Rodrigo Lanza" id="287" idsalesforce="00142082" name="Mejoras Dataloads Analysis" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Rodrigo Lanza" id="286" idsalesforce="00156728" name="Suma de AwardAmount en PC de Upstream es 0 cuando difieren las monedas" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Blanca García Rodriguez" id="285" idsalesforce="00140638" name="Evolutivo publicación masiva peticiones de compra en ACM" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Blanca García Rodriguez" id="284" idsalesforce="00145493" name="Pantalla de Selección de procesos de compra a agregar" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="256" idsalesforce="00037873" name="Consulta Proveedores" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="257" idsalesforce="00050369" name="Mejora para identificación de Owner en contratos de ACW" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="263" idsalesforce="00115935" name="Evolutivo Analysis - Tipo aprobación adjudicación y Tipo Mesa de ACM" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="260" idsalesforce="00079570" name="Duplicidad en los subgrupos de producto de un contrato" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="261" idsalesforce="00103846" name="Generación de contratos incorrecta en Segundas Ediciones" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="266" idsalesforce="00122671" name="Cambios automáticos en Comparativa al modificar la globalidad de un proceso NO Adjudicado" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="267" idsalesforce="00127163" name="Incidencia en el proceso de ampliación de presupuesto (BAR)" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="265" idsalesforce="00120809" name="Trigger de Z_IsFromEmergingCountry en BidComparison" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="270" idsalesforce="00130257" name="Creación Z_PrevRevisedUnitPrice en ACM y empleo en Analysis" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="271" idsalesforce="00131434" name="Modificación nombre de campo Sourcing" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="268" idsalesforce="00130134" name="Evolutivo ACM generación hoja MCT en histórico comparativas ofertas" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="269" idsalesforce="00130249" name="Moneda campo RevisedUnitPrice en ACM" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="308" idsalesforce="00171367" name="Nuevo Nodo de Aprobación de Riesgo Financiero en ACM" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="311" idsalesforce="00142471" name="Modificación literal mensaje error validación importes por proveedor, fee y condición pago en ACM" projectId="mant124" status="En producción" versionName="MAN127"/>
+<task author="Covadonga Florez García" id="313" idsalesforce="00173094" name="AccountingYear a null" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Rodrigo Lanza" id="315" idsalesforce="00173093" name="No se propaga UnitOfMeasure PEÇ a las purchase request en upstream" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="316" idsalesforce="00173092" name="Mantenimiento - Problemas tarea de invoice" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Rodrigo Lanza" id="318" idsalesforce="00173091" name="Workflow duplicados en peticion compra" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Rodrigo Lanza" id="289" idsalesforce="" name="Programación de scripts multinodo" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Rodrigo Lanza" id="291" idsalesforce="00145679" name="Incluir validación del importe de los incoterms con respecto al presupuesto" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Rodrigo Lanza" id="292" idsalesforce="00145679" name="Correctivo cálculo ahorros Hoja MCT ACM - MANTES27 - No incluir incoterms" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Rodrigo Lanza" id="293" idsalesforce="" name="Fix loadR40. Z_PedidoERP vacío" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="" id="294" idsalesforce="" name="Estudio de mejora de tiempos de carga de analysis" projectId="mant124" status="Nueva" versionName=""/>
+<task author="Rodrigo Lanza" id="295" idsalesforce="" name="Etiqueta Áreas Involucradas en inglés en peticiones de compra" projectId="mant124" status="Cerrada" versionName="MAN127"/>
+<task author="Sergio Ruiz" id="302" idsalesforce="00173101" name="Comparativa de ofertas y purchase request pierden la referencias en sus items" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="303" idsalesforce="00173096" name="Assert en tarea de ejecutar evento ó configurar subasta .r5" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Rodrigo Lanza" id="338" idsalesforce="00155608" name="Actualización Especificaciones Documento" projectId="mant124" status="En desarrollo" versionName=""/>
+<task author="Rodrigo Lanza" id="337" idsalesforce="00123139" name="Creación de nuevo campo para Servicios Juridicos" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="336" idsalesforce="00122532" name="Opción Suprimir Proyecto en Contratos Servicios Jurídicos" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Rodrigo Lanza" id="326" idsalesforce="" name="Nuevo campo requiereCatalogo en p40t4 en versiones 4" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Covadonga Florez García" id="322" idsalesforce="00175094" name="Problemas en envío y recepción de mensajes G3 y RG3" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="323" idsalesforce="00175499" name="Modificación en Reglas de Aprobación de Buyer (Peticion de compra y Requisition) y Creación de nuevos campos en Petición de compra" projectId="mant124" status="En producción" versionName=""/>
+<task author="Rodrigo Lanza" id="320" idsalesforce="00147976" name="Rechazo de peticiones adjudicadas en ACM" projectId="mant124" status="En desarrollo" versionName=""/>
+<task author="Diego Murias" id="334" idsalesforce="00103485" name="Redondeo incorrecto al guardar comparativa en campo NegotiatedItems.AwardAmount" projectId="mant124" status="Cerrada" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="335" idsalesforce="00115939" name="Modificación de objeto Z_SG_Contratista" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Covadonga Florez García" id="332" idsalesforce="00057401" name="Incidencia en pantalla de búsquedas de Contratos de Servicios Jurídicos" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Noel Menendez Vigo" id="333" idsalesforce="00097686" name="Sumatorio de importes de adjudicación en Mesa" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Covadonga Florez García" id="330" idsalesforce="00017462" name="Longitud de campos en dimensión Event" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Noel Menendez Vigo" id="331" idsalesforce="00030810" name="Centros de Coste para facturas en Analysis" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="328" idsalesforce="00174918" name="Modificar que al agregar o desagregar peticiones de compra se actualice el vecotr de AreasSolicitante." projectId="mant124" status="Pendiente despliegue pro" versionName=""/>
+<task author="Diego Murias" id="329" idsalesforce="00181887" name="Redondeo incorrecto en Propuesta Automática de ACM (adjudicación por cantidad) " projectId="mant124" status="Cerrada" versionName="MAN128"/>
+<task author="Rodrigo Lanza" id="373" idsalesforce="00183874" name="Ampliar Campos de Comentarios en la Comparativa de Ofertas" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Noel Menendez Vigo" id="372" idsalesforce="00184557" name="Creación campo proveedor en la búsqueda de eventos de sourcing" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="375" idsalesforce="00171157" name="Evolutivo modificación notificación nuevo proveedor Adquira" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Noel Menendez Vigo" id="374" idsalesforce="00184669" name="Inclusión campo Fecha de Reapertura" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="371" idsalesforce="00183654" name="Actualización de Z_PedidoERP en ACM cuando el origen es una R40" projectId="mant124" status="Cerrada" versionName="MAN128"/>
+<task author="Noel Menendez Vigo" id="370" idsalesforce="00184556" name="Notificación cancelación de proceso de compra" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="381" idsalesforce="00197937" name="Moficación de la Regla de Riesgo Financiero" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="383" idsalesforce="00200145" name="Correctivo para la identificación de los PaymentTerms en las PRs de Compra Ordinaria de ACM" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Covadonga Florez García" id="382" idsalesforce="00199789" name="Incidencia herramienta de monitorizacion Middleware TCE" projectId="mant124" status="Lista para desarrollo" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="377" idsalesforce="00192403" name="Cálculo propuesta automática ACM - Truncar duodécimo decimal" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="376" idsalesforce="00172303" name="Rollback en botón Cancelar de pantalla de asociación de PCs a item de negociación" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Rodrigo Lanza" id="379" idsalesforce="00184171" name="Ocultar Campos de Ahorro en la Comparativa" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="358" idsalesforce="00149919" name="Opción Suprimir en el Formulario de Petición de Compra de ACM" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Noel Menendez Vigo" id="359" idsalesforce="00165525" name="Modificación en la lógica para la Determinación de Unidad de Inscripción en el Registro de Proveedores" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="352" idsalesforce="00096459" name="Petición de Mejora Sourcing (mensajes previos al cierre del evento)" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Rodrigo Lanza" id="365" idsalesforce="00184097" name="Seleccionar Requester misma organización en Acuerdo Marco" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Rodrigo Lanza" id="366" idsalesforce="00184134" name="Tareas condicionadas a preguntas de contratos" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Rodrigo Lanza" id="360" idsalesforce="00168815" name="Evolutivo Proveedores Inclusión comentario al suspender automáticamente" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="361" idsalesforce="00169412" name="Desagendar procesos agregados" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Sergio Ruiz" id="362" idsalesforce="00173087" name="Correctivo seteo AgreementCurrency líneas de PC en ACM en propuesta automática" projectId="mant124" status="Cerrada" versionName="MAN128"/>
+<task author="Noel Menendez Vigo" id="363" idsalesforce="00153539" name="Petición de Mejora en eProcurement" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Blanca García Rodriguez" id="410" idsalesforce="00214095" name="Reaperturas fallidas incorrectas" projectId="mant124" status="Lista para desarrollo" versionName="MAN129"/>
+<task author="Blanca García Rodriguez" id="411" idsalesforce="00214098" name="Mantenimiento - Error al editar líneas de adjudicación" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="408" idsalesforce="00212610" name="Actualizar Ofertas Automáticamente" projectId="mant124" status="Lista para desarrollo" versionName="MAN129"/>
+<task author="Blanca García Rodriguez" id="409" idsalesforce="00214087" name="Mantenimiento - Fallo habitual en la tarea de generación de procesos de compra" projectId="mant124" status="En desarrollo" versionName="MAN129"/>
+<task author="Blanca García Rodriguez" id="414" idsalesforce="00214105" name="Mantenimiento - Error PC Sending con BAR en processing" projectId="mant124" status="Lista para desarrollo" versionName="MAN129"/>
+<task author="Blanca García Rodriguez" id="415" idsalesforce="00214477" name="Mejora de Bloqueo archivos en carpeta documentos" projectId="mant124" status="Lista para desarrollo" versionName="MAN129"/>
+<task author="Anónimo null" id="412" idsalesforce="00214100" name="Mantenimiento - Assert en pcs en vector Z_ProcMeComplementan impide abrir el mismo" projectId="mant124" status="Nueva" versionName=""/>
+<task author="Sergio Ruiz" id="413" idsalesforce="00214104" name="Mantenimiento - Assert en previousversion de purchaserequest" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Anónimo null" id="402" idsalesforce="00155608" name="RC00147976. Actualización especificaciones documento" projectId="mant124" status="Nueva" versionName=""/>
+<task author="Covadonga Florez García" id="403" idsalesforce="00166718" name="Incidencia cálculo Indicador Proceso con Proveedor Unico - ANALYSIS (Procesos Adjudicados)" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="400" idsalesforce="00021495" name="bloqueo eventos" projectId="mant124" status="Nueva" versionName=""/>
+<task author="Blanca García Rodriguez" id="401" idsalesforce="00152192" name="ERROR COMPARATIVA PROCESO 11238229" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Blanca García Rodriguez" id="406" idsalesforce="00201176" name="Actualización de Translations de los nombres de los proveedores en Ariba Buyer" projectId="mant124" status="En desarrollo" versionName="MAN129"/>
+<task author="Covadonga Florez García" id="407" idsalesforce="00210799" name="Error al ejecutarse tareas de la IN de forma paralela." projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Covadonga Florez García" id="404" idsalesforce="00175472" name="Problema mensaje erróneo se vuelve a poner en la cola (INTERFAZ NORMALIZADA)" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Blanca García Rodriguez" id="405" idsalesforce="00193485" name="Fallo al agregar acuerdos marco" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Covadonga Florez García" id="395" idsalesforce="" name="Campos con mas de 12 decimales" projectId="mant124" status="Lista para desarrollo" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="394" idsalesforce="" name="Mantenimiento - Datos erróneos en la comparativa de ofertas" projectId="mant124" status="Lista para desarrollo" versionName="MAN129"/>
+<task author="Jorge García" id="393" idsalesforce="00164598" name="Question for Product Code" projectId="mant124" status="Pendiente pruebas integración" versionName="MAN129"/>
+<task author="Covadonga Florez García" id="392" idsalesforce="00182856" name="Editabilidad de los campos del owner en la jerarquía de AM y Subacuerdos." projectId="mant124" status="En desarrollo" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="397" idsalesforce="00212216" name="Corrección de carga de campos de tipo LongString en Analysis" projectId="mant124" status="Lista para desarrollo" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="396" idsalesforce="" name="Error al refrescar datos del proveedor" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="387" idsalesforce="00208104" name="Corrección de error en workflows de Buyer" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Rodrigo Lanza" id="386" idsalesforce="" name="Cambios SRM" projectId="mant124" status="Pendiente pruebas integración" versionName=""/>
+<task author="Sergio Ruiz" id="384" idsalesforce="00187186" name="Nuevo nodo de aprobación en los procesos de compra de ACM" projectId="mant124" status="En producción" versionName="MAN128"/>
+<task author="Covadonga Florez García" id="391" idsalesforce="00207660" name="Términos de pago incorrectos en PCs de ACM" projectId="mant124" status="En desarrollo" versionName="MAN129"/>
+<task author="Covadonga Florez García" id="390" idsalesforce="00209095" name="Error en el reporte de ahorros (Presupuesto revisado por linea, año y proveedor)" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Rodrigo Lanza" id="388" idsalesforce="00210799" name="Fix gestión conexión desde Ariba a la bbdd intermedia" projectId="mant124" status="Pendiente pruebas integración" versionName=""/>
+<task author="Covadonga Florez García" id="425" idsalesforce="00217582" name="ACM-Notificación a proveedores que no han sido adjudicatarios" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Blanca García Rodriguez" id="424" idsalesforce="00215944" name="Incidencia en la generación de la hoja MCT" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Covadonga Florez García" id="427" idsalesforce="00216896" name="Actualización de Regla de aprobación de condicionamiento en ACM" projectId="mant124" status="Lista para desarrollo" versionName="MAN129"/>
+<task author="Covadonga Florez García" id="426" idsalesforce="" name="Gestión de Compras Generales y Ordinarias en el mismo proceso" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="417" idsalesforce="00214096" name="EscalateApprovables" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="416" idsalesforce="00214481" name="Nuevo campo Motivo modificación presupuesto" projectId="mant124" status="Lista para desarrollo" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="419" idsalesforce="00215480" name="Incluir botón en la comparativa de ofertas para borrado de todos los ítem de negociación" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="418" idsalesforce="00215137" name="Cancelación de procesos ya cancelados" projectId="mant124" status="Lista para desarrollo" versionName="MAN129"/>
+<task author="Covadonga Florez García" id="421" idsalesforce="00215609" name="Publicación de Estrategia de la Compra tras bajar el ámbito" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Covadonga Florez García" id="420" idsalesforce="00215581" name="Team de Procesos de compra vacíos" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Sergio Ruiz" id="423" idsalesforce="00215972" name="Tasa de conversión en segundas ediciones" projectId="mant124" status="Nueva" versionName="MAN129"/>
+<task author="Covadonga Florez García" id="422" idsalesforce="00215814" name="Nuevo campo de Proveedor: Company Registration Number" projectId="mant124" status="Nueva" versionName="MAN129"/>
+</RedmineCache>
